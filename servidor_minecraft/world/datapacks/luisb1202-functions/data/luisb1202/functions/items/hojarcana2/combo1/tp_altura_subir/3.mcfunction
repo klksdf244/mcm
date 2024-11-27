@@ -1,0 +1,15 @@
+execute if score @s danom2 matches 31 at @s run tp @s ~ ~ ~ ~ ~-0.998629534754574
+execute if score @s danom2 matches 32 at @s run tp @s ~ ~ ~ ~ ~-0.994521895368273
+execute if score @s danom2 matches 33 at @s run tp @s ~ ~ ~ ~ ~-0.987688340595138
+execute if score @s danom2 matches 34 at @s run tp @s ~ ~ ~ ~ ~-0.978147600733806
+execute if score @s danom2 matches 35 at @s run tp @s ~ ~ ~ ~ ~-0.965925826289068
+execute if score @s danom2 matches 36 at @s run tp @s ~ ~ ~ ~ ~-0.951056516295154
+execute if score @s danom2 matches 37 at @s run tp @s ~ ~ ~ ~ ~-0.933580426497202
+execute if score @s danom2 matches 38 at @s run tp @s ~ ~ ~ ~ ~-0.913545457642601
+execute if score @s danom2 matches 39 at @s run tp @s ~ ~ ~ ~ ~-0.891006524188368
+execute if score @s danom2 matches 40 at @s run tp @s ~ ~ ~ ~ ~-0.866025403784439
+execute if score @s danom2 matches 41 at @s run tp @s ~ ~ ~ ~ ~-0.838670567945424
+execute if score @s danom2 matches 42 at @s run tp @s ~ ~ ~ ~ ~-0.809016994374948
+execute if score @s danom2 matches 43 at @s run tp @s ~ ~ ~ ~ ~-0.777145961456971
+execute if score @s danom2 matches 44 at @s run tp @s ~ ~ ~ ~ ~-0.743144825477394
+execute if score @s danom2 matches 45 at @s run tp @s ~ ~ ~ ~ ~-0.707106781186548

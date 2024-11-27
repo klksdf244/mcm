@@ -1,0 +1,10 @@
+execute positioned -952 150 -73 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 146 -75 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 142 -75 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 141 -72 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 140 -68 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 141 -63 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 147 -63 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 151 -65 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 152 -66 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill
+execute positioned -952 152 -71 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill

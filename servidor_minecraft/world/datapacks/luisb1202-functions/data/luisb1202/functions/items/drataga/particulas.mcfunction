@@ -1,0 +1,19 @@
+particle minecraft:landing_lava ~0.342020143325669 ~ ~0.939692620785908 0 0 0 0 0
+particle minecraft:landing_lava ~0.642787609686539 ~ ~0.766044443118978 0 0 0 0 0
+particle minecraft:landing_lava ~0.866025403784439 ~ ~0.5 0 0 0 0 0
+particle minecraft:landing_lava ~0.984807753012208 ~ ~0.17364817766693 0 0 0 0 0
+particle minecraft:landing_lava ~0.984807753012208 ~ ~-0.17364817766693 0 0 0 0 0
+particle minecraft:landing_lava ~0.866025403784439 ~ ~-0.5 0 0 0 0 0
+particle minecraft:landing_lava ~0.64278760968654 ~ ~-0.766044443118978 0 0 0 0 0
+particle minecraft:landing_lava ~0.342020143325669 ~ ~-0.939692620785908 0 0 0 0 0
+particle minecraft:landing_lava ~0 ~ ~-1 0 0 0 0 0
+particle minecraft:landing_lava ~-0.342020143325669 ~ ~-0.939692620785908 0 0 0 0 0
+particle minecraft:landing_lava ~-0.642787609686539 ~ ~-0.766044443118978 0 0 0 0 0
+particle minecraft:landing_lava ~-0.866025403784438 ~ ~-0.5 0 0 0 0 0
+particle minecraft:landing_lava ~-0.984807753012208 ~ ~-0.17364817766693 0 0 0 0 0
+particle minecraft:landing_lava ~-0.984807753012208 ~ ~0.17364817766693 0 0 0 0 0
+particle minecraft:landing_lava ~-0.866025403784439 ~ ~0.5 0 0 0 0 0
+particle minecraft:landing_lava ~-0.64278760968654 ~ ~0.766044443118978 0 0 0 0 0
+particle minecraft:landing_lava ~-0.342020143325669 ~ ~0.939692620785908 0 0 0 0 0
+particle minecraft:landing_lava ~0 ~ ~1 0 0 0 0 0
+tag @s add dragata_particulas

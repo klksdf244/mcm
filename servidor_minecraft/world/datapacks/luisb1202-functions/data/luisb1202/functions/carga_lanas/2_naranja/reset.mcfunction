@@ -1,0 +1,1 @@
+function luisb1202:carga_lanas/2_naranja/dialogo_thar_kroo/reset

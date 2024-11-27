@@ -1,0 +1,1 @@
+execute as @a[scores={id_lana=10}] at @s run playsound block.bell.use master @s 764 130 1709 100 0

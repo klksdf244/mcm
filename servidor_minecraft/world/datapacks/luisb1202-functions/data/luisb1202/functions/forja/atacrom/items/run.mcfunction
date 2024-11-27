@@ -1,0 +1,3 @@
+execute at @e[tag=forja_yunque_core] as @e[nbt={Item:{tag:{forja:1}},OnGround:1b},distance=..2.5,limit=1,sort=nearest,tag=!forja_item_checked] if entity @e[tag=forja_atacrom,tag=!forja_item_1] run function luisb1202:forja/atacrom/items/colocar_1
+execute at @e[tag=forja_yunque_core] as @e[nbt={Item:{tag:{forja:1}},OnGround:1b},distance=..2.5,limit=1,sort=nearest,tag=!forja_item_checked] if entity @e[tag=forja_atacrom,tag=forja_item_1,tag=!forja_item_2] run function luisb1202:forja/atacrom/items/colocar_2
+execute at @e[tag=forja_yunque_core] at @e[nbt={Item:{tag:{forja:1}},OnGround:0b}] unless entity @e[tag=forja_atacrom,tag=forja_item_2] run particle dust 0.047 0.878 0.604 0.6 ~ ~0.3 ~ 0 0 0 0 1 

@@ -1,0 +1,1 @@
+execute unless score nexo_invasion danom matches 1.. run function luisb1202:talentos/minikoros/gen2

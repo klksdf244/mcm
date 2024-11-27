@@ -1,0 +1,3 @@
+execute as @a[tag=11_dialogo] at @s unless entity @e[tag=4_totem_core,tag=4_totem_alas,distance=..10] run function luisb1202:carga_lanas/11_cian/totem_de_lore/dialogos/end_dialogo
+execute if entity @p[tag=11_dialogo] run schedule function luisb1202:carga_lanas/11_cian/totem_de_lore/dialogos/run 1t
+execute as @a[tag=11_dialogo,scores={dialogo=1..}] run function luisb1202:carga_lanas/11_cian/totem_de_lore/dialogos/trigger_index

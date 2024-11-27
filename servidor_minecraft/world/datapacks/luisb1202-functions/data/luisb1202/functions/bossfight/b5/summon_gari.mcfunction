@@ -1,0 +1,2 @@
+
+summon pillager ~ ~ ~ {HandItems:[{id:"minecraft:crossbow",Count:1b},{}],Invulnerable:0b,NoAI:0,Silent:1b,ActiveEffects:[{}],Rotation:[-90F,0F],PersistenceRequired:true,Tags:["boss","dual_boss","gari_boss","hostile"],CustomName:'{"translate":"entity.pillager.6.name.1"}',CustomNameVisible:1b,ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],HandDropChances:[0.0f,0.0f],DeathLootTable:"empty",Health:1000f,Attributes:[{Name:"generic.attack_damage",Base:15},{Name:"generic.max_health",Base:800},{Name:"generic.movement_speed",Base:0.29},{Name:"generic.armor",Base:7}]}

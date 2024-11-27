@@ -1,0 +1,1 @@
+give @p splash_potion{CustomPotionEffects:[{Id:7b,Amplifier:3b,Duration:0}],CustomPotionColor:10231326,display:{Name:'{"translate":"item.splash_potion.10.name.1","color":"#75FFCD"}',Lore:['{"translate":"empty"}','{"translate":"item.splash_potion.10.lore.1.1"}','{"translate":"empty"}','{"translate":"item.potion.5.lore.4.1"}','{"translate":"empty"}']}} 1

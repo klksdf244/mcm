@@ -1,0 +1,6 @@
+kill @e[tag=b3_as_caido]
+kill @e[tag=b3_as]
+kill @e[tag=b3_as_name]
+kill @e[tag=b4_as]
+kill @e[tag=b4_espada_as]
+kill @e[tag=b4_as_name]

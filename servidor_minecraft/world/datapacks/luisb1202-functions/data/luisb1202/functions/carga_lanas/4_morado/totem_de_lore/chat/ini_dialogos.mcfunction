@@ -1,0 +1,2 @@
+execute as @a[distance=..7] run function luisb1202:carga_lanas/4_morado/totem_de_lore/chat/self_display
+execute as @a[distance=..7] at @s run playsound minecraft:entity.elder_guardian.ambient master @s ~ ~ ~ 1 1.8

@@ -1,0 +1,36 @@
+particle minecraft:end_rod ~ ~ ~ -0.946930129495106 0 -0.321439465303162 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.99144486137381 0 -0.130526192220052 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.997858923238604 0 0.0654031292301433 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.965925826289068 0 0.25881904510252 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.896872741532689 0 0.442288690219001 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.793353340291235 0 0.608761429008721 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.659345815100069 0 0.751839807478978 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.5 0 0.866025403784438 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.321439465303162 0 0.946930129495106 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.130526192220052 0 0.99144486137381 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.0654031292301432 0 0.997858923238604 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.25881904510252 0 0.965925826289068 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.442288690219001 0 0.896872741532689 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.608761429008721 0 0.793353340291235 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.751839807478978 0 0.659345815100069 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.866025403784439 0 0.5 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.946930129495106 0 0.321439465303162 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.99144486137381 0 0.130526192220052 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.997858923238604 0 -0.0654031292301431 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.965925826289068 0 -0.25881904510252 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.896872741532688 0 -0.442288690219002 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.793353340291235 0 -0.608761429008721 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.65934581510007 0 -0.751839807478977 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.5 0 -0.866025403784439 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.321439465303162 0 -0.946930129495106 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ 0.130526192220051 0 -0.991444861373811 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.0654031292301431 0 -0.997858923238604 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.25881904510252 0 -0.965925826289068 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.442288690219002 0 -0.896872741532688 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.60876142900872 0 -0.793353340291235 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.751839807478977 0 -0.65934581510007 0.5 0 force
+particle minecraft:end_rod ~ ~ ~ -0.866025403784439 0 -0.5 0.5 0 force
+
+particle flash ~ ~ ~ 0 0 0 0 0 force
+
+particle explosion ~ ~ ~ 0 0 0 0 0 force

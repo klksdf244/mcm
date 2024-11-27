@@ -1,0 +1,34 @@
+
+summon armor_stand ~7.39103626009029 ~ ~3.06146745892072 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~5.65685424949238 ~ ~5.65685424949238 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~3.06146745892072 ~ ~7.39103626009029 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~0 ~ ~8 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-3.06146745892072 ~ ~7.39103626009029 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-5.65685424949238 ~ ~5.65685424949238 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-7.39103626009029 ~ ~3.06146745892072 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-8 ~ ~0 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-7.3910362600903 ~ ~-3.06146745892072 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-5.65685424949238 ~ ~-5.65685424949238 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-3.06146745892072 ~ ~-7.3910362600903 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~0 ~ ~-8 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~3.06146745892072 ~ ~-7.39103626009029 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~5.65685424949238 ~ ~-5.65685424949238 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~7.3910362600903 ~ ~-3.06146745892072 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~8 ~ ~0 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+
+summon armor_stand ~3.69551813004515 ~ ~1.53073372946036 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~2.82842712474619 ~ ~2.82842712474619 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~1.53073372946036 ~ ~3.69551813004515 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~0 ~ ~4 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-1.53073372946036 ~ ~3.69551813004515 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-2.82842712474619 ~ ~2.82842712474619 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-3.69551813004515 ~ ~1.53073372946036 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-4 ~ ~0 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-3.69551813004515 ~ ~-1.53073372946036 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-2.82842712474619 ~ ~-2.82842712474619 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~-1.53073372946036 ~ ~-3.69551813004515 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~0 ~ ~-4 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~1.53073372946036 ~ ~-3.69551813004515 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~2.82842712474619 ~ ~-2.82842712474619 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~3.69551813004515 ~ ~-1.53073372946036 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}
+summon armor_stand ~4 ~ ~0 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h4_pos"]}

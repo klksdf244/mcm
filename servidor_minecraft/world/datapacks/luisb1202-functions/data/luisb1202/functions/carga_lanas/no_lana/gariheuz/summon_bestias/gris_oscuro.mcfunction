@@ -1,0 +1,5 @@
+summon elder_guardian ~ ~ ~ {ArmorDropChances:[0.085f,0.085f,0.085f,1.0f],CustomName:'[{"translate":"luisb1202.functions.carga_lanas.no_lana.gariheuz.summon_bestias.gris_oscuro.1","color":"dark_green","bold":true},{"translate":"entity.drowned.1.name.2","color":"dark_green","bold":false,"underlined":false},{"translate":"entity.vindicator.1.name.2","color":"gray","bold":false,"underlined":false}]',ArmorItems:[{},{},{},{}],ActiveEffects:[{Id:10,Amplifier:2,Duration:999999}],Health:110.0f,Attributes:[{Base:110,Name:"generic.max_health"}],DeathLootTable:"luisb1202:entities/gari1",id:"minecraft:elder_guardian",Tags:["hostile","bestia_gariheuz","no_estigia","nightmare_eye","afijo_encadenante","afijo_supurante","afijo_lvl_2"],CustomNameVisible:1b}
+function luisb1202:carga_lanas/no_lana/gariheuz/summon_bestias/aviso_koros
+function luisb1202:bossfight/b4/h1/particulas_intp
+
+scoreboard players set 10_bestia_salvaje danom 1

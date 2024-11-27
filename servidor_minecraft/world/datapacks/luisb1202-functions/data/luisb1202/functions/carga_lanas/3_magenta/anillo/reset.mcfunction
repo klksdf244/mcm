@@ -1,0 +1,1 @@
+kill @e[tag=3_anillo_as]

@@ -1,0 +1,1 @@
+execute as @e[tag=4_totem_core,sort=nearest,limit=1] run function luisb1202:carga_lanas/4_morado/totem_de_lore/gen_cuerpo

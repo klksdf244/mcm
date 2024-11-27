@@ -1,0 +1,1 @@
+execute as @e[tag=hojarcana_ultima_core] at @s positioned ^-1 ^-1 ^ run function luisb1202:items/hojarcana/ultima/ini

@@ -1,0 +1,2 @@
+execute as @s run title @s actionbar {"translate":"luisb1202.functions.talentos.impl.f2.aura_de_purificacion.end_cd.1","color":"#42f5cb"}
+execute as @s at @s run playsound minecraft:ui.button.click master @s ~ ~ ~ 1 1.5

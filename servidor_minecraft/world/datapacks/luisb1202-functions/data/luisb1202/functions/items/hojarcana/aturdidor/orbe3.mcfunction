@@ -1,0 +1,16 @@
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0.369551813004515 ^0.153073372946036 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0.282842712474619 ^0.282842712474619 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0.153073372946036 ^0.369551813004515 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0 ^0.4 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^-0.153073372946036 ^0.369551813004515 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^-0.282842712474619 ^0.282842712474619 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^-0.369551813004515 ^0.153073372946036 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^-0.4 ^0 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^-0.369551813004515 ^-0.153073372946036 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^-0.282842712474619 ^-0.282842712474619 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^-0.153073372946036 ^-0.369551813004515 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0 ^-0.4 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0.153073372946036 ^-0.369551813004515 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0.282842712474619 ^-0.282842712474619 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0.369551813004515 ^-0.153073372946036 ^ 0 1 0 100000 0 normal @s
+execute at @e[tag=hojarcana_aturdidor_as] positioned ~ ~1 ~ rotated as @s run particle end_rod ^0.4 ^0 ^ 0 1 0 100000 0 normal @s

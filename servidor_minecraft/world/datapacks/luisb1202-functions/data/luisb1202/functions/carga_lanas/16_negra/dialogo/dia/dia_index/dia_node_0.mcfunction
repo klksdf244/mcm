@@ -1,0 +1,30 @@
+# Playsound
+execute as @a[tag=display_target,scores={text_i=40}] at @s run playsound entity.pillager.ambient master @s ~ ~ ~ 1 0.9
+
+# Hardcode
+tellraw @a[tag=display_target] {"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_0.1"}
+tellraw @a[tag=display_target,scores={text_i=40}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.bossfight.b2.dialogos.inicio.dia_index.dia_node_15.1","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=41}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.1","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=42}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.2","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=43}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.3","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=44}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.4","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=45..50}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.4","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=51}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.5","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=52}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.6","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=53}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.7","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=54}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.8","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=55}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.9","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=56..61}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.9","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=62}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.10","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=63}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.11","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=64}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.12","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=65}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.13","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=66}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.14","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=67}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.15","font":"default","color":"white"}]
+tellraw @a[tag=display_target,scores={text_i=68}] [{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_0.1","font":"default","color":""},{"translate":"luisb1202.functions.carga_lanas.16_negra.dialogo.dia.dia_index.dia_node_0.16","font":"default","color":"white"}]
+
+# Delay entre caracteres
+schedule function luisb1202:carga_lanas/16_negra/dialogo/dia/dia_index/dia_index 2t
+
+# Playsound 
+execute as @a[tag=display_target] unless entity @s[scores={text_i=45..50}] unless entity @s[scores={text_i=56..61}] at @s run playsound minecraft:ui.button.click master @s ~ ~ ~ 0.05 2

@@ -1,0 +1,1 @@
+execute unless entity @s[tag=boss] unless entity @s[tag=inmune_polimorfia] unless entity @s[nbt={PersistenceRequired:1b}] run function luisb1202:items/polimorfia/transformar2

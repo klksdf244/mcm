@@ -1,0 +1,8 @@
+scoreboard players set 10_gris_abrir_puerta danom 1
+summon item ~ ~ ~ {Motion:[0.0,0.5,0.0],CustomNameVisible:1,CustomName:'{"translate":"luisb1202.functions.carga_lanas.10_gris.mini_boss.llave_puerta.ini.1","color":"#FBBDFF"}',PickupDelay:40,Age:32768,NoGravity:0b,Item:{id:"minecraft:tripwire_hook",Count:1b,tag:{CanPlaceOn:["minecraft:structure_void"],display:{Name:'{"translate":"luisb1202.functions.carga_lanas.10_gris.mini_boss.llave_puerta.ini.2","color":"#FBBDFF"}',Lore:['{"translate":"empty"}','{"translate":"luisb1202.functions.carga_lanas.10_gris.mini_boss.llave_puerta.ini.3"}','{"translate":"luisb1202.functions.carga_lanas.10_gris.mini_boss.llave_puerta.ini.4"}','{"translate":"luisb1202.functions.carga_lanas.10_gris.mini_boss.llave_puerta.ini.5"}','{"translate":"luisb1202.functions.carga_lanas.10_gris.mini_boss.llave_puerta.ini.6"}','{"translate":"empty"}','{"translate":"item.paper.3.lore.3.1"}','{"translate":"empty"}']},Enchantments:[{}],HideFlags:16,10_llave:1}}}
+schedule function luisb1202:carga_lanas/10_gris/mini_boss/llave_puerta/run 1t
+execute at @e[type=item,nbt={Item:{tag:{esquirla_thar:1}},OnGround:0b}] run particle flash ~ ~ ~ 0 0 0 0 0 force
+execute at @e[type=item,nbt={Item:{tag:{esquirla_thar:1}},OnGround:0b}] run particle explosion ~ ~ ~ 0 0 0 0 0 force
+playsound entity.experience_orb.pickup master @a ~ ~ ~ 1 2
+
+schedule function luisb1202:carga_lanas/10_gris/mini_boss/llave_puerta/msg 3s

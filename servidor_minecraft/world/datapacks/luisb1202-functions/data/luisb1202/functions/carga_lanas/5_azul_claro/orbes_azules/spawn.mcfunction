@@ -1,0 +1,5 @@
+execute positioned 1827 73 983 unless score lana_5_orbe1 danom matches 1 unless entity @e[tag=lana_5_as,distance=..10] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_azules/gen 
+execute positioned 1824 29 847 unless score lana_5_orbe2 danom matches 1 unless entity @e[tag=lana_5_as,distance=..10] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_azules/gen 
+execute positioned 1908 21 920 unless score lana_5_orbe3 danom matches 1 unless entity @e[tag=lana_5_as,distance=..10] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_azules/gen 
+execute positioned 1884 43 1019 unless score lana_5_orbe4 danom matches 1 unless entity @e[tag=lana_5_as,distance=..10] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_azules/gen 
+execute positioned 1866 29 800 unless score lana_5_orbe5 danom matches 1 unless entity @e[tag=lana_5_as,distance=..10] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_azules/gen 

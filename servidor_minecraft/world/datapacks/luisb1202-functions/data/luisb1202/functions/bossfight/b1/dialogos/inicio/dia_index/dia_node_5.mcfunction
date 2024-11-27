@@ -1,0 +1,61 @@
+# Playsound
+execute as @a[tag=display_target,scores={text_i=421}] at @s run playsound entity.piglin.angry master @s ~ ~ ~ 1 1.4
+
+# Hardcode
+tellraw @a[tag=display_target] {"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_0.1"}
+tellraw @a[tag=display_target,scores={text_i=421}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_12.1","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=422}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.1","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=423}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.2","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=424}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.3","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=425}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.4","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=426}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.5","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=427}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.6","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=428}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.7","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=429}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.8","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=430}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.9","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=431}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.10","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=432}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.11","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=433}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.12","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=434}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.13","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=435}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.14","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=436}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.15","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=437}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.16","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=438}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.17","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=439}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.18","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=440}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.19","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=441}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.20","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=442}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.21","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=443}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.22","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=444}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.23","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=445..454}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.24","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=455}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.25","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=456}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.26","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=457}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.27","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=458}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.28","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=459}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.29","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=460}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.30","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=461}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.31","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=462}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.32","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=463}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.33","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=464}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.34","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=465}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.35","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=466}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.36","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=467}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.37","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=468}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.38","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=469}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.39","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=470}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.40","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=471}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.41","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=472}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.42","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=473}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.43","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=474}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.44","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=475}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.45","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=476}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.46","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=477}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.47","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=478}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.48","font":"default"}]
+tellraw @a[tag=display_target,scores={text_i=479}] [{"translate":"luisb1202.functions.bossfight.b1.dialogos.inicio.dia_index.dia_node_5.49","font":"default"}]
+
+# Delay entre caracteres
+schedule function luisb1202:bossfight/b1/dialogos/inicio/dia_index/dia_index 2t
+
+# Playsound 
+execute as @a[tag=display_target] unless entity @s[scores={text_i=445..454}] at @s run playsound minecraft:ui.button.click master @s ~ ~ ~ 0.05 2

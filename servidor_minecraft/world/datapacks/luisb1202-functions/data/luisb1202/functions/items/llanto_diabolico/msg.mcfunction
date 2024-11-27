@@ -1,0 +1,2 @@
+tellraw @a ["",{"translate":"luisb1202.functions.items.filo_exanime.check.1","color":"#FF9900"},{"translate":"luisb1202.functions.items.llanto_diabolico.msg.1","color":"#FF9900"}]
+execute as @a at @s run playsound ui.button.click master @s ~ ~ ~ 1 1.5

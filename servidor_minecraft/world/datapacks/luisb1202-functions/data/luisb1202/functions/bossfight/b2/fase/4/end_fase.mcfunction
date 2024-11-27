@@ -1,0 +1,1 @@
+scoreboard players set fase boss 2

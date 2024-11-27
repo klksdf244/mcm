@@ -1,0 +1,16 @@
+particle minecraft:flame ^0.184775906502257 ^0.076536686473018 ^ 0 1 0 1000 0
+particle minecraft:flame ^0.14142135623731 ^0.14142135623731 ^ 0 1 0 1000 0
+particle minecraft:flame ^0.076536686473018 ^0.184775906502257 ^ 0 1 0 1000 0
+particle minecraft:flame ^0 ^0.2 ^ 0 1 0 1000 0
+particle minecraft:flame ^-0.076536686473018 ^0.184775906502257 ^ 0 1 0 1000 0
+particle minecraft:flame ^-0.14142135623731 ^0.14142135623731 ^ 0 1 0 1000 0
+particle minecraft:flame ^-0.184775906502257 ^0.076536686473018 ^ 0 1 0 1000 0
+particle minecraft:flame ^-0.2 ^0 ^ 0 1 0 1000 0
+particle minecraft:flame ^-0.184775906502257 ^-0.0765366864730179 ^ 0 1 0 1000 0
+particle minecraft:flame ^-0.14142135623731 ^-0.14142135623731 ^ 0 1 0 1000 0
+particle minecraft:flame ^-0.0765366864730179 ^-0.184775906502257 ^ 0 1 0 1000 0
+particle minecraft:flame ^0 ^-0.2 ^ 0 1 0 1000 0
+particle minecraft:flame ^0.076536686473018 ^-0.184775906502257 ^ 0 1 0 1000 0
+particle minecraft:flame ^0.141421356237309 ^-0.14142135623731 ^ 0 1 0 1000 0
+particle minecraft:flame ^0.184775906502257 ^-0.0765366864730179 ^ 0 1 0 1000 0
+particle minecraft:flame ^0.2 ^0 ^ 0 1 0 1000 0

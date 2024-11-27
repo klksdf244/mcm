@@ -1,0 +1,1 @@
+execute if block ^ ^ ^-0.25 #luisb1202:noground if block ^ ^1 ^-0.25 #luisb1202:noground run tp @s ^ ^ ^-0.25

@@ -1,0 +1,3 @@
+replaceitem entity @s armor.chest elytra{Unbreakable:1b,display:{Name:'{"translate":"luisb1202.functions.carga_lanas.nexo.alas.equip.1"}',Lore:['{"translate":"empty"}','{"translate":"luisb1202.functions.carga_lanas.nexo.alas.equip.2"}','{"translate":"empty"}','{"translate":"luisb1202.functions.carga_lanas.nexo.alas.equip.3"}','{"translate":"empty"}','{"translate":"item.netherite_sword.1.lore.6.1"}','{"translate":"empty"}']},cohete_santuario:1}
+playsound item.armor.equip_elytra master @a ~ ~ ~
+particle firework ~ ~1 ~ 0 0 0 0.3 14

@@ -1,0 +1,1 @@
+execute as @e[tag=desaparecer] at @s run kill @s

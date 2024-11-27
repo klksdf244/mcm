@@ -1,0 +1,6 @@
+summon ravager ~ ~ ~ {ArmorDropChances:[-327.0f,-327.0f,-327.0f,-327.0f],CustomName:'[{"translate":"luisb1202.functions.carga_lanas.no_lana.gariheuz.summon_bestias.gris.1","color":"dark_green","bold":true},{"translate":"entity.wither_skeleton.3.name.3","color":"white","bold":false,"underlined":false},{"translate":"entity.vindicator.1.name.3","color":"red","bold":false,"underlined":false},{"translate":"entity.spider.1.name.2","color":"gold","bold":false,"underlined":false},{"translate":"entity.wither_skeleton.4.name.2","color":"gold","bold":false,"underlined":false}]',ArmorItems:[{},{},{id:"minecraft:golden_chestplate",Count:1b,tag:{Enchantments:[{lvl:5s,id:"minecraft:fire_protection"},{lvl:5s,id:"minecraft:blast_protection"}]}},{}],HandDropChances:[-327.0f,-327.0f],PersistenceRequired:1,id:"minecraft:ravager",Tags:["hostile","no_estigia","afijo_aplastante","bestia_gariheuz","afijo_huesudo","afijo_demoledor","afijo_infernal","afijo_lvl_2"],DeathLootTable:"luisb1202:entities/gari2",CustomNameVisible:1b,HandItems:[{},{}]}
+function luisb1202:carga_lanas/no_lana/gariheuz/summon_bestias/aviso_koros
+function luisb1202:bossfight/b4/h1/particulas_intp
+
+scoreboard players set 9_bestia_salvaje danom 1
+

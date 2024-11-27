@@ -1,0 +1,4 @@
+kill @e[tag=10_eothar]
+summon armor_stand 774.7 126.4 1709 {Rotation:[90f],Pose:{RightLeg:[-80f,10f,0f],LeftLeg:[-80f,-10f,0f],RightArm:[-10f,0f,20f],LeftArm:[0f,-20f,-20f],Body:[0f,-20f,0f],Head:[-8f,0f,20f]},ShowArms:1b,NoBasePlate:true,NoGravity:1b,Silent:1b,Invulnerable:1b,Marker:1b,Tags:["10_eothar"],ArmorItems:[{id:"leather_boots",Count:1b,tag:{display:{color:16777215}}},{id:"leather_leggings",Count:1b,tag:{display:{color:16777215}}},{id:"leather_chestplate",Count:1b,tag:{display:{color:16777215}}},{Count:1b,id:"player_head",tag:{SkullOwner:{Id:[I;-1799677634,1587104164,-1678250160,-84111072],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTJiYjljNjY2Mjc5YTlhZWViNTI1NTA5MWFhODI4ZjdkMWM0MjcxZTc3MzIxMjM5Y2Q2Y2VmMmU5NmJjOWY4OCJ9fX0="}]}}}}]}
+function luisb1202:carga_lanas/10_gris/eothar/gen_guardias
+

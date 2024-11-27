@@ -1,0 +1,1 @@
+give @s paper{RepairCost:999999,Unbreakable:1,display:{Name:'{"translate":"item.paper.3.name.1","color":"#FBBDFF"}',Lore:['{"translate":"empty"}','{"translate":"item.paper.3.lore.1.1"}','{"translate":"empty"}','{"translate":"item.paper.3.lore.3.1"}','{"translate":"empty"}']},Enchantments:[{}],HideFlags:127,10_carta:1} 1

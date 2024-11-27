@@ -1,0 +1,2 @@
+scoreboard players remove @e[tag=afijo_turbulento,tag=!eothar_noai] turbulento 1
+execute as @e[tag=afijo_turbulento,scores={turbulento=..0},tag=!eothar_noai] at @s if entity @p[distance=..14] at @s run function luisb1202:afijos/turbulento/ini

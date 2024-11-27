@@ -1,0 +1,2 @@
+execute if entity @p[scores={tomo_tp_bit=1..},tag=!tomo_tp_cast] run schedule function luisb1202:items/tomo/traslacion/cd 1s
+scoreboard players remove @a[scores={tomo_tp_bit=1..},tag=!tomo_tp_cast] tomo_tp_bit 1

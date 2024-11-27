@@ -1,0 +1,15 @@
+particle minecraft:squid_ink ^1.96577944549524 ^ ^0.78315715332031 0 1 0 1000 0
+particle minecraft:squid_ink ^1.86370330515627 ^ ^1.55291427061512 0 1 0 1000 0
+particle minecraft:squid_ink ^1.69551813004515 ^ ^2.29610059419054 0 1 0 1000 0
+particle minecraft:squid_ink ^1.46410161513775 ^ ^3 0 1 0 1000 0
+particle minecraft:squid_ink ^1.17341336116494 ^ ^3.65256857405232 0 1 0 1000 0
+particle minecraft:squid_ink ^0.82842712474619 ^ ^4.24264068711929 0 1 0 1000 0
+particle minecraft:squid_ink ^0.435045716034883 ^ ^4.76012004174741 0 1 0 1000 0
+particle minecraft:squid_ink ^0 ^ ^5.19615242270663 0 0 0 0.6 1
+particle minecraft:squid_ink ^-0.435045716034883 ^ ^4.76012004174741 0 1 0 1000 0
+particle minecraft:squid_ink ^-0.82842712474619 ^ ^4.24264068711929 0 1 0 1000 0
+particle minecraft:squid_ink ^-1.17341336116494 ^ ^3.65256857405233 0 1 0 1000 0
+particle minecraft:squid_ink ^-1.46410161513775 ^ ^3 0 1 0 1000 0
+particle minecraft:squid_ink ^-1.69551813004515 ^ ^2.29610059419054 0 1 0 1000 0
+particle minecraft:squid_ink ^-1.86370330515627 ^ ^1.55291427061513 0 1 0 1000 0
+particle minecraft:squid_ink ^-1.96577944549524 ^ ^0.78315715332031 0 1 0 1000 0

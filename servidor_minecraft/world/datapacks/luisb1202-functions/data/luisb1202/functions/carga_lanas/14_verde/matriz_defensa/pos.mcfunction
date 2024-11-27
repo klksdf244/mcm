@@ -1,0 +1,8 @@
+execute positioned -3282 54 1412 unless entity @e[tag=14_matriz_escombro,distance=..4] unless entity @e[tag=14_matriz_as,distance=..4] run function luisb1202:carga_lanas/14_verde/matriz_defensa/gen
+execute positioned -3349 58 1412 unless entity @e[tag=14_matriz_escombro,distance=..4] unless entity @e[tag=14_matriz_as,distance=..4] run function luisb1202:carga_lanas/14_verde/matriz_defensa/gen
+execute positioned -3522 101 1510 unless entity @e[tag=14_matriz_escombro,distance=..4] unless entity @e[tag=14_matriz_as,distance=..4] run function luisb1202:carga_lanas/14_verde/matriz_defensa/gen
+execute positioned -3495 93 1361 unless entity @e[tag=14_matriz_escombro,distance=..4] unless entity @e[tag=14_matriz_as,distance=..4] run function luisb1202:carga_lanas/14_verde/matriz_defensa/gen
+execute positioned -3592 80 1412 unless entity @e[tag=14_matriz_escombro,distance=..4] unless entity @e[tag=14_matriz_as,distance=..4] run function luisb1202:carga_lanas/14_verde/matriz_defensa/gen
+execute positioned -3451 81 1412 unless entity @e[tag=14_matriz_escombro,distance=..4] unless entity @e[tag=14_matriz_as,distance=..4] run function luisb1202:carga_lanas/14_verde/matriz_defensa/gen
+execute positioned -3557 91 1330 unless entity @e[tag=14_matriz_escombro,distance=..4] unless entity @e[tag=14_matriz_as,distance=..4] run function luisb1202:carga_lanas/14_verde/matriz_defensa/gen
+execute positioned -3661 81 1442 unless entity @e[tag=14_matriz_escombro,distance=..4] unless entity @e[tag=14_matriz_as,distance=..4] run function luisb1202:carga_lanas/14_verde/matriz_defensa/gen

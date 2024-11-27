@@ -1,0 +1,26 @@
+particle minecraft:squid_ink ~3.86370330515627 ~ ~1.03527618041008 0 1 0 10000 0 force
+particle minecraft:squid_ink ~3.46410161513776 ~ ~2 0 1 0 10000 0 force
+particle minecraft:squid_ink ~2.82842712474619 ~ ~2.82842712474619 0 1 0 10000 0 force
+particle minecraft:squid_ink ~2 ~ ~3.46410161513775 0 1 0 10000 0 force
+particle minecraft:squid_ink ~1.03527618041008 ~ ~3.86370330515627 0 1 0 10000 0 force
+particle minecraft:squid_ink ~0 ~ ~4 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-1.03527618041008 ~ ~3.86370330515627 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-2 ~ ~3.46410161513776 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-2.82842712474619 ~ ~2.82842712474619 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-3.46410161513776 ~ ~2 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-3.86370330515627 ~ ~1.03527618041008 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-4 ~ ~0 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-3.86370330515627 ~ ~-1.03527618041008 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-3.46410161513775 ~ ~-2 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-2.82842712474619 ~ ~-2.82842712474619 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-2. ~ ~-3.46410161513775 0 1 0 10000 0 force
+particle minecraft:squid_ink ~-1.03527618041008 ~ ~-3.86370330515627 0 1 0 10000 0 force
+particle minecraft:squid_ink ~0 ~ ~-4 0 1 0 10000 0 force
+particle minecraft:squid_ink ~1.03527618041008 ~ ~-3.86370330515627 0 1 0 10000 0 force
+particle minecraft:squid_ink ~2 ~ ~-3.46410161513775 0 1 0 10000 0 force
+particle minecraft:squid_ink ~2.82842712474619 ~ ~-2.82842712474619 0 1 0 10000 0 force
+particle minecraft:squid_ink ~3.46410161513775 ~ ~-2. 0 1 0 10000 0 force
+particle minecraft:squid_ink ~3.86370330515627 ~ ~-1.03527618041008 0 1 0 10000 0 force
+particle minecraft:squid_ink ~4 ~ ~0 0 1 0 10000 0 force
+
+particle minecraft:squid_ink ~ ~0.1 ~ 1.5 0 1.5 0 2 force

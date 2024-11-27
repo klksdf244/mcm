@@ -1,0 +1,6 @@
+execute as @s at @s unless block ~ ~ ~ magenta_carpet unless block ~ ~ ~ yellow_carpet unless block ~ ~ ~ fire unless block ~ ~ ~ purple_carpet unless block ~ ~ ~ orange_carpet unless block ~ ~ ~ white_carpet unless block ~ ~ ~ green_carpet unless block ~ ~ ~ cyan_carpet unless block ~ ~ ~ brown_carpet unless block ~ ~ ~ black_carpet unless block ~ ~ ~ cyan_carpet unless block ~ ~ ~ pink_carpet unless block ~ ~ ~ lime_carpet unless block ~ ~ ~ gray_carpet unless block ~ ~ ~ blue_carpet unless block ~ ~ ~ red_carpet unless block ~ ~ ~ redstone_torch unless block ~ ~ ~ torch unless block ~ ~ ~ air unless block ~ ~ ~ large_fern unless block ~ ~ ~ fern unless block ~ ~ ~ snow unless block ~ ~ ~ tall_grass unless block ~ ~ ~ grass unless block ~ ~ ~ #small_flowers unless block ~ ~ ~ #tall_flowers run tag @s add poner_agua
+execute as @s at @s if block ~ ~-1 ~ lava run tag @s add poner_agua
+execute at @s[tag=!poner_agua] run summon armor_stand ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["purificar_as"]}
+execute at @s[tag=!poner_agua] run setblock ~ ~ ~ water[level=0] destroy
+execute if entity @e[tag=purificar_as] run schedule function luisb1202:talentos/impl/f2/aura_de_purificacion/quitar_agua 2t
+tag @s remove poner_agua

@@ -1,0 +1,1 @@
+execute as @a[scores={zanahoria=1..}] at @s run function luisb1202:items/zanahoria_del_heroe/comer

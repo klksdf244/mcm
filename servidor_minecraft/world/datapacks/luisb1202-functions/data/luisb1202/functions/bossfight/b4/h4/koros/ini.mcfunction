@@ -1,0 +1,1 @@
+execute if score b4_h8_bossbar boss matches 1.. run function luisb1202:bossfight/b4/h4/koros/ini2

@@ -1,0 +1,2 @@
+execute if predicate luisb1202:random2 at @e[type=item,nbt={Item:{tag:{10_llave:1}}}] run particle firework ~ ~0.4 ~ 0 0 0 0.2 1 force
+execute if entity @e[type=item,nbt={Item:{tag:{10_llave:1}}}] run schedule function luisb1202:carga_lanas/10_gris/mini_boss/llave_puerta/run 1t

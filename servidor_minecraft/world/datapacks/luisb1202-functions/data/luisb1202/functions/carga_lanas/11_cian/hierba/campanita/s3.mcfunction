@@ -1,0 +1,1 @@
+execute at @e[tag=11_hierba_core] run playsound block.note_block.chime master @a ~ ~ ~ 0.1 1.8

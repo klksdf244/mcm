@@ -1,0 +1,1 @@
+kill @e[tag=invasion_mina_pincho,distance=..1.5]

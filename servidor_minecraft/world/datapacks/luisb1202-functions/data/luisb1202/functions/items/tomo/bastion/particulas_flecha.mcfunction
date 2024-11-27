@@ -1,0 +1,2 @@
+execute as @e[tag=!flecha_avizora,nbt={inGround:0b},tag=bastion_flecha] at @s run particle end_rod ~ ~ ~ 0 0 0 0.03 1 force
+execute if entity @e[tag=!flecha_avizora,nbt={inGround:0b},tag=bastion_flecha] run schedule function luisb1202:items/tomo/bastion/particulas_flecha 1t

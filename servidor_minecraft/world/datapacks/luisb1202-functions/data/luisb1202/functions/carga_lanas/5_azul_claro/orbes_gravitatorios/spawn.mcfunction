@@ -1,0 +1,11 @@
+execute positioned 1783 43 893 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1835 61 830 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1853 80 855 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1853 80 917 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1873 34 958 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1824 24 871 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1866 25 833 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1849 6 784 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1831 6 836 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1848 43 781 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 
+execute positioned 1863 43 857 unless entity @e[tag=lana5_orbe,distance=..3] if entity @p[distance=..35] run function luisb1202:carga_lanas/5_azul_claro/orbes_gravitatorios/gen 

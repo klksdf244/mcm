@@ -1,0 +1,2 @@
+scoreboard players add manto_fetido danom 1
+execute if score manto_fetido danom matches 10.. as @a[nbt={Inventory:[{Slot:-106b,tag:{manto_fetido:1}}]}] run function luisb1202:items/trinkets/manto_fetido/ini

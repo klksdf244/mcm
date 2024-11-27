@@ -1,0 +1,20 @@
+
+particle minecraft:explosion -951 159 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 157 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 155 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 153 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 151 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 149 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 147 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 145 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 143 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 141 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 139 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 137 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 135 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 133 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 131 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 129 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 127 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 125 -69 0 0 0 0 0 force
+particle minecraft:explosion -951 123 -69 0 0 0 0 0 force

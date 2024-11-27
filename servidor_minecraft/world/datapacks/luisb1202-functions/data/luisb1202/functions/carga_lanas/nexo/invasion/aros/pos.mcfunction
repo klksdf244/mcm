@@ -1,0 +1,12 @@
+execute positioned 1030.53 124.15 -180.06 rotated 401.69 0 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1017.83 127.31 -152.85 rotated -154.37 9.30 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1009.91 123.10 -191.60 rotated -704.11 -3.60 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1001.61 127.33 -149.36 rotated -372.31 -7.95 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1041.52 138.34 -64.90 rotated -15.91 -1.80 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1046.85 123.85 -34.75 rotated -701.87 25.20 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1047.90 117.58 12.18 rotated -741.81 -13.50 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1079.27 130.95 60.68 rotated -755.76 -7.65 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1009.47 131.68 -117.78 rotated 180.11 11.70 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1099.79 135.02 95.94 rotated -31.41 9.30 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+execute positioned 1109.83 131.77 84.65 rotated -273.80 -7.95 unless entity @e[tag=invasion_aro,type=armor_stand,distance=..1] unless entity @p[distance=..25] run function luisb1202:carga_lanas/nexo/invasion/aros/gen
+

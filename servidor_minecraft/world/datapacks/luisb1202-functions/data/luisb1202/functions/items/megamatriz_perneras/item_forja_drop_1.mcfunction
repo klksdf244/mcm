@@ -1,0 +1,4 @@
+
+summon item ~ ~ ~ {Motion:[0.0,0.5,0.0],Item:{id:"minecart",Count:1b,tag:{RepairCost:999999,Unbreakable:1,display:{Name:'{"translate":"luisb1202.functions.items.megamatriz_perneras.item_forja.1","color":"#75FFCD"}',Lore:['{"translate":"empty"}','{"translate":"luisb1202.functions.items.megamatriz_perneras.item_forja.2"}','{"translate":"empty"}','{"translate":"luisb1202.functions.items.megamatriz_perneras.item_forja.3"}','{"translate":"luisb1202.functions.items.megamatriz_perneras.item_forja.4"}','{"translate":"empty"}','{"translate":"item.netherite_chestplate.2.lore.4.1"}','{"translate":"empty"}']},HideFlags:127,Enchantments:[{}],forja:1,terracechador_1:1}}} 
+playsound entity.experience_orb.pickup master @a ~ ~ ~ 1 2
+particle explosion

@@ -1,0 +1,12 @@
+execute at @e[tag=b1_puertas_as] run fill ~ ~ ~ ~ ~ ~9 minecraft:iron_bars keep
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~1 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~2 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~3 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~4 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~5 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~6 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~7 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~8 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run particle spit ~ ~ ~9 0 0 0 0 0 force
+execute at @e[tag=b1_puertas_as] run playsound minecraft:item.armor.equip_chain master @a ~ ~ ~ 2 0.7
+execute as @e[tag=b1_puertas_as] at @s run tp @s ~ ~-1 ~

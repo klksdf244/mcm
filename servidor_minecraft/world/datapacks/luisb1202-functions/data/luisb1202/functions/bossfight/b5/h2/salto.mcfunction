@@ -1,0 +1,2 @@
+execute if score b5_h2_vision boss matches -100..-96 run execute as @e[tag=b5_h2_vision,limit=1] at @s run tp @s ~ ~0.6 ~ 
+execute if score b5_h2_vision boss matches -95..-90 run execute as @e[tag=b5_h2_vision,limit=1] at @s run tp @s ~ ~0.15 ~ 

@@ -1,0 +1,2 @@
+execute as @e[tag=afijo_huesudo,tag=!eothar_noai] at @s unless entity @p[distance=..5] run scoreboard players remove @s hueso 1
+execute as @e[tag=afijo_huesudo,scores={hueso=..-4},tag=!eothar_noai] at @s if entity @p[distance=..16] at @s run function luisb1202:afijos/huesudo/ini

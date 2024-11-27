@@ -1,0 +1,1 @@
+data modify entity @e[tag=b3_as_caido1,limit=1] Pose.Head set value [70f,0f,10f]

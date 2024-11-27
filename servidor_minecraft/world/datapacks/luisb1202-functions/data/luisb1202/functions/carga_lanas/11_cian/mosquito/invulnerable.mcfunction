@@ -1,0 +1,2 @@
+data modify entity @e[tag=11_mosquito_vida,scores={11_id=0},limit=1,type=armor_stand] CustomName set value '{"translate":"entity.armor_stand.37.name.1"}'
+data modify entity @e[tag=11_mosquito_ia,scores={11_id=0},limit=1,type=bee] Invulnerable set value 1

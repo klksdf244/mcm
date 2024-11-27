@@ -1,0 +1,1 @@
+execute positioned -6355 57 1413 run playsound entity.blaze.shoot master @a ~ ~ ~ 4 0.8

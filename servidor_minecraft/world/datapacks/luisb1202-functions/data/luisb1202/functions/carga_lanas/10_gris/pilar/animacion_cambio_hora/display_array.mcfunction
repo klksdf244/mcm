@@ -1,0 +1,13 @@
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.1"},{"score":{"name":"10_hora_1","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.2"},{"score":{"name":"10_hora_2","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.3"},{"score":{"name":"10_hora_3","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.4"},{"score":{"name":"10_hora_4","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.5"},{"score":{"name":"10_hora_5","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.6"},{"score":{"name":"10_hora_6","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.7"},{"score":{"name":"10_hora_7","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.8"},{"score":{"name":"10_hora_8","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.9"},{"score":{"name":"10_hora_9","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.10"},{"score":{"name":"10_hora_10","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.11"},{"score":{"name":"10_hora_11","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+tellraw @a ["",{"translate":"luisb1202.functions.carga_lanas.10_gris.pilar.animacion_cambio_hora.display_array.12"},{"score":{"name":"10_hora_12","objective":"danom"}},{"translate":"block.sign.55.text2.3"}]
+

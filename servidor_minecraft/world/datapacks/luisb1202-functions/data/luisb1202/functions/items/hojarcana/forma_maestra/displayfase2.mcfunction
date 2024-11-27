@@ -1,0 +1,11 @@
+execute unless score hojarcana_chain danom matches 1.. run title @s[nbt={SelectedItem:{tag:{hojarcana:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_maestra","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana.forma_maestra.displayfase2.1"}]
+execute if score hojarcana_chain danom matches 1 run title @s[nbt={SelectedItem:{tag:{hojarcana:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_maestra","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana.forma_maestra.displayfase2.2"}]
+
+execute if score hojarcana_chain danom matches 2 run title @s[nbt={SelectedItem:{tag:{hojarcana:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_maestra","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana.forma_maestra.displayfase2.3"}]
+execute if score hojarcana_chain danom matches 3 run title @s[nbt={SelectedItem:{tag:{hojarcana:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_maestra","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana.forma_maestra.displayfase2.4"}]
+
+execute if score hojarcana_chain danom matches 4 run title @s[nbt={SelectedItem:{tag:{hojarcana:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_maestra","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana.forma_maestra.displayfase2.5"}]
+execute if score hojarcana_chain danom matches 5 run title @s[nbt={SelectedItem:{tag:{hojarcana:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_maestra","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana.forma_maestra.displayfase2.6"}]
+
+scoreboard players set forma_maestra_aux danom 0
+scoreboard players remove forma_maestra danom 1

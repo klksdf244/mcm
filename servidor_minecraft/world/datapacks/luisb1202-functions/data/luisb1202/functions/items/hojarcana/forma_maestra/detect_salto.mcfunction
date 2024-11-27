@@ -1,0 +1,2 @@
+execute if score hojarcana_chain danom matches 0 run function luisb1202:items/hojarcana/forma_maestra/pasar_fase
+execute if score hojarcana_chain danom matches 4 run function luisb1202:items/hojarcana/forma_maestra/pasar_fase

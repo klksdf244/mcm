@@ -1,0 +1,4 @@
+execute as @e[tag=kalcifer_skull] positioned as @s run tp @s ~ ~ ~ facing entity @e[tag=!lana_5_core,tag=hostile,limit=1,sort=nearest,distance=..12,nbt={Invulnerable:0b},tag=!13_flor_hitbox]
+execute as @e[tag=kalcifer_skull] positioned as @s if entity @e[tag=!lana_5_core,tag=hostile,limit=1,sort=nearest,distance=..12,nbt={Invulnerable:0b},tag=!13_flor_hitbox] at @s positioned ^1.5 ^ ^2.5 run tp @s ~ ~ ~
+execute as @e[tag=kalcifer_body] at @e[tag=kalcifer_skull] positioned ~ ~ ~ run tp @s ~ ~0.15 ~ 
+execute as @e[tag=kalcifer_skull] positioned as @s unless entity @e[tag=kalcifer_fireball_cd] run function luisb1202:items/kalcifer/fireball

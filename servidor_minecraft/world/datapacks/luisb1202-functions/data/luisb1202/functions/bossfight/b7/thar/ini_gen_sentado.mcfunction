@@ -1,0 +1,1 @@
+execute positioned -915.6 159.5 -69 run function luisb1202:bossfight/b7/thar/gen_sentado

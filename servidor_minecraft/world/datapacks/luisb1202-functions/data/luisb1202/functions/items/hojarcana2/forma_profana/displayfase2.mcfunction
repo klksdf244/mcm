@@ -1,0 +1,11 @@
+execute unless score hojarcana2_chain danom matches 1.. run title @s[nbt={SelectedItem:{tag:{hojarcana2:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_profana","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana2.forma_profana.displayfase2.1"}]
+execute if score hojarcana2_chain danom matches 1 run title @s[nbt={SelectedItem:{tag:{hojarcana2:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_profana","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana2.forma_profana.displayfase2.2"}]
+
+execute if score hojarcana2_chain danom matches 2 run title @s[nbt={SelectedItem:{tag:{hojarcana2:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_profana","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana2.forma_profana.displayfase2.3"}]
+execute if score hojarcana2_chain danom matches 3 run title @s[nbt={SelectedItem:{tag:{hojarcana2:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_profana","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana2.forma_profana.displayfase2.4"}]
+
+execute if score hojarcana2_chain danom matches 4 run title @s[nbt={SelectedItem:{tag:{hojarcana2:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_profana","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana2.forma_profana.displayfase2.5"}]
+execute if score hojarcana2_chain danom matches 5 run title @s[nbt={SelectedItem:{tag:{hojarcana2:1}}}] actionbar [{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color": "gray"},{"score":{"name":"forma_profana","objective":"danom"},"color": "gray"},{"translate":"luisb1202.functions.items.hojarcana2.forma_profana.displayfase2.6"}]
+
+scoreboard players set forma_profana_aux danom 0
+scoreboard players remove forma_profana danom 1

@@ -1,0 +1,2 @@
+scoreboard players add esencia_vital danom 1
+execute if score esencia_vital danom matches 4.. as @a[nbt={Inventory:[{Slot:-106b,tag:{esencia_vital:1}}]}] run function luisb1202:items/trinkets/esencia_vital/aplicar

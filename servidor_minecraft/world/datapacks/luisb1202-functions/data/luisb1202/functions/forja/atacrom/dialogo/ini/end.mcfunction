@@ -1,0 +1,1 @@
+scoreboard players set atacrom_descubierto afijos_info 1

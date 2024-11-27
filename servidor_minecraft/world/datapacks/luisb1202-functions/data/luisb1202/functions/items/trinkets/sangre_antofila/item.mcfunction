@@ -1,0 +1,1 @@
+give @p gold_nugget{Enchantments:[{}],RepairCost:999999,Unbreakable:1,display:{Name:'{"translate":"item.gold_nugget.1.name.1"}',Lore:['{"translate":"empty"}','{"translate":"item.prismarine_shard.3.lore.1.1"}','{"translate":"item.gold_nugget.1.lore.2.1"}','{"translate":"empty"}','{"translate":"item.feather.2.lore.1.1"}']},sangre_antofila:1} 1

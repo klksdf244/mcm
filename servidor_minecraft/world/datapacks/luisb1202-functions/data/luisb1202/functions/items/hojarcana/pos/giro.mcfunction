@@ -1,0 +1,9 @@
+execute as @e[tag=hojarcana_core] at @s run tp @s ~ ~0.007 ~ ~3 ~
+execute if score hojarcana_t boss matches 3.. at @e[tag=hojarcana_core] rotated ~-45 ~ positioned ^ ^1.4 ^2.4 run particle dust 1 1 1 0.6 ~ ~ ~ 0 0 0 0 0
+execute if score hojarcana_t boss matches 3.. if predicate luisb1202:random2 at @e[tag=hojarcana_core] rotated ~-45 ~ positioned ^ ^1.4 ^2.3 run particle dust 1 1 1 0.5 ~ ~ ~ 0 0 0 0 0
+execute if score hojarcana_t boss matches 3.. if predicate luisb1202:random2 at @e[tag=hojarcana_core] rotated ~-45 ~ positioned ^ ^1.4 ^2.2 run particle dust 1 1 1 0.4 ~ ~ ~ 0 0 0 0 0
+execute if score hojarcana_t boss matches 3.. if predicate luisb1202:random2 at @e[tag=hojarcana_core] rotated ~-45 ~ positioned ^ ^1.4 ^2.1 run particle dust 1 1 1 0.3 ~ ~ ~ 0 0 0 0 0
+execute if score hojarcana_t boss matches 3.. if predicate luisb1202:random3 at @e[tag=hojarcana_core] rotated ~-45 ~ positioned ^ ^1.4 ^2.0 run particle dust 1 1 1 0.3 ~ ~ ~ 0 0 0 0 0
+execute if score hojarcana_t boss matches 3.. if predicate luisb1202:random3 at @e[tag=hojarcana_core] rotated ~-45 ~ positioned ^ ^1.4 ^1.9 run particle dust 1 1 1 0.3 ~ ~ ~ 0 0 0 0 0
+execute if score hojarcana_t boss matches 3.. if predicate luisb1202:random3 at @e[tag=hojarcana_core] rotated ~-45 ~ positioned ^ ^1.4 ^1.8 run particle dust 1 1 1 0.3 ~ ~ ~ 0 0 0 0 0
+execute if score hojarcana_t boss matches 3.. if predicate luisb1202:random3 at @e[tag=hojarcana_core] rotated ~-45 ~ positioned ^ ^1.4 ^1.7 run particle dust 1 1 1 0.3 ~ ~ ~ 0 0 0 0 0

@@ -1,0 +1,1 @@
+tag @e[tag=hit_glaivorus] remove hit_glaivorus

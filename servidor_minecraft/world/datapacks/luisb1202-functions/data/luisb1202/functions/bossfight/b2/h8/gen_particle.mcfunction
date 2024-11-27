@@ -1,0 +1,3 @@
+execute at @s positioned ^ ^1.2 ^0.3 run summon tropical_fish ~ ~ ~ {NoAI:1,Team:"noempuje",Fire:999999,NoGravity:1b,Silent:1b,Invulnerable:1b,DeathLootTable:"none",Motion:[-0.351074222354289,-0.263305666765717,0.145419704298734],Tags:["b2_h8_particle"],ActiveEffects:[{Id:11b,Amplifier:77b,Duration:999999,ShowParticles:0b},{Id:12b,Amplifier:1b,Duration:999999,ShowParticles:0b},{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:0b},{Id:25b,Amplifier:255,Duration:999999,ShowParticles:0b}]}
+schedule function luisb1202:bossfight/b2/h8/run_particle 1t
+scoreboard players set @s danom 0

@@ -1,0 +1,1 @@
+scoreboard players add @e[type=bee,tag=bomba_abejas_as] arco_abejas 160

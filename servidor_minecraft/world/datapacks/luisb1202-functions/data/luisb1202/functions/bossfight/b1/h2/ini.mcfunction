@@ -1,0 +1,1 @@
+execute as @r[gamemode=!spectator] at @s run function luisb1202:bossfight/b1/h2/ini2

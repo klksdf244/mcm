@@ -1,0 +1,3 @@
+
+tellraw @s {"translate":"luisb1202.functions.carga_lanas.0_intro.cinematica_conquistador.ini.1"}
+tellraw @s ["",{"translate":"luisb1202.functions.carga_lanas.nexo.dummies.dps.title.1","bold":true,"color":"green"},{"score":{"name":"dummy_media_aux","objective":"danom"},"bold":true,"color":"yellow"},{"translate":"luisb1202.functions.carga_lanas.nexo.dummies.dps.title.2","bold":true,"color":"green"},{"score":{"name":"dummy_last_hit","objective":"danom"},"bold":true,"color":"yellow"},{"translate":"luisb1202.functions.carga_lanas.nexo.dummies.dps.title.3","bold":true,"color":"green"},{"score":{"name":"dummy_dano_total","objective":"danom"},"bold":true,"color":"yellow"}]

@@ -1,0 +1,1 @@
+tag @e[tag=boss] remove b6_deadlock

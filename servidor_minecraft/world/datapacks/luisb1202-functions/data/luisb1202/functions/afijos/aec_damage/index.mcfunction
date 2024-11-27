@@ -1,0 +1,9 @@
+execute as @s[type=player,nbt={ActiveEffects:[{Id:27b,Amplifier:0b}]}] run function luisb1202:afijos/aec_damage/supurar_lvl1
+execute as @s[type=player,nbt={ActiveEffects:[{Id:27b,Amplifier:1b}]}] run function luisb1202:afijos/aec_damage/supurar_lvl2
+execute as @s[type=player,nbt={ActiveEffects:[{Id:27b,Amplifier:2b}]}] run function luisb1202:afijos/aec_damage/supurar_lvl3
+execute as @s[type=player,nbt={ActiveEffects:[{Id:27b,Amplifier:3b}]}] run function luisb1202:afijos/aec_damage/asolar_lvl1
+execute as @s[type=player,nbt={ActiveEffects:[{Id:27b,Amplifier:4b}]}] run function luisb1202:afijos/aec_damage/asolar_lvl2
+execute as @s[type=player,nbt={ActiveEffects:[{Id:27b,Amplifier:5b}]}] run function luisb1202:afijos/aec_damage/asolar_lvl3
+execute as @s[tag=hostile,nbt={ActiveEffects:[{Id:27b,Amplifier:3b}]}] run function luisb1202:afijos/aec_damage/asolar_hostile
+execute as @s[tag=hostile,nbt={ActiveEffects:[{Id:27b,Amplifier:4b}]}] run function luisb1202:afijos/aec_damage/asolar_hostile2
+execute as @s[tag=hostile,nbt={ActiveEffects:[{Id:27b,Amplifier:5b}]}] run function luisb1202:afijos/aec_damage/asolar_hostile3

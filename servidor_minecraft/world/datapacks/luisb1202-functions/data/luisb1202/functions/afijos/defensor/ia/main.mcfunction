@@ -1,0 +1,2 @@
+execute as @e[tag=afijo_defensor,scores={q_defensor=1..},tag=!eothar_noai] positioned as @s if entity @p[distance=..30] run scoreboard players remove @s q_defensor 1
+execute as @e[tag=afijo_defensor,scores={q_defensor=..0},nbt={OnGround:1b},tag=!casting,sort=random,limit=1,tag=!eothar_noai] positioned as @s unless entity @e[tag=baluarte] if entity @p[distance=..15] if entity @e[tag=hostile,distance=0.1..5] positioned as @s run function luisb1202:afijos/defensor/ini

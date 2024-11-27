@@ -1,0 +1,1 @@
+execute positioned -952 124 -74 run function luisb1202:bossfight/b7/structs/escudo/romper/capas/fill

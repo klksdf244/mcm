@@ -1,0 +1,1 @@
+execute at @e[tag=b4_as] positioned ^0.5 ^0.5 ^1 run function luisb1202:carga_lanas/9_gris_claro/cinematica/laser/gen 

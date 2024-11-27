@@ -1,0 +1,12 @@
+execute positioned ^0.25 ^0.433012701892219 ^0.333333333333333 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^0.433012701892219 ^0.25 ^0.666666666666667 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^0.5 ^0 ^1 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^0.433012701892219 ^-0.25 ^1.33333333333333 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^0.25 ^-0.433012701892219 ^1.66666666666667 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^0 ^-0.5 ^2 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^-0.25 ^-0.433012701892219 ^2.33333333333333 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^-0.433012701892219 ^-0.25 ^2.66666666666667 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^-0.5 ^0 ^3 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^-0.433012701892219 ^0.25 ^3.33333333333333 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^-0.25 ^0.433012701892219 ^3.66666666666667 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1
+execute positioned ^0 ^0.5 ^4 run particle minecraft:crit ~ ~1 ~ 0 0 0 0 1

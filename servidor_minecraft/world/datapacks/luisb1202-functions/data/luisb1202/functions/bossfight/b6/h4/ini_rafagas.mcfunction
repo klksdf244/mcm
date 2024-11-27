@@ -1,0 +1,11 @@
+schedule function luisb1202:bossfight/b6/h4/rafaga 1s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 2s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 3s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 4s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 5s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 6s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 7s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 8s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 9s append
+schedule function luisb1202:bossfight/b6/h4/rafaga 10s append
+schedule function luisb1202:bossfight/b6/h4/end 14s append

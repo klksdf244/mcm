@@ -1,0 +1,1 @@
+execute if entity @p[nbt={Inventory:[{tag:{Lana:10}}]}] unless score monumento_lana_cian boss matches 1.. run function luisb1202:carga_lanas/obtener_lana/cian

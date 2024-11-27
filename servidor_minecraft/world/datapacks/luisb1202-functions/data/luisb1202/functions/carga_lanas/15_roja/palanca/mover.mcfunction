@@ -1,0 +1,1 @@
+execute unless entity @e[tag=15_palanca_core,tag=15_palanca_mover] at @s if entity @p[distance=..5] as @e[tag=15_palanca_core,sort=nearest,limit=1,distance=..10] unless score @s danom matches 4.. run function luisb1202:carga_lanas/15_roja/palanca/mover2

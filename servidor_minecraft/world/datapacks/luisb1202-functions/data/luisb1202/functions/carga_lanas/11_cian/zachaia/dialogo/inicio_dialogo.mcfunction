@@ -1,0 +1,2 @@
+execute as @s[tag=!zachaia_conocida] run function luisb1202:carga_lanas/11_cian/zachaia/dialogo/inicio_1
+execute as @s[tag=zachaia_conocida] run function luisb1202:carga_lanas/11_cian/zachaia/dialogo/inicio_2

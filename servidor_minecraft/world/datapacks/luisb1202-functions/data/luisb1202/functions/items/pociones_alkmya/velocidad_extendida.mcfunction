@@ -1,0 +1,1 @@
+give @p potion{CustomPotionColor:9031126,CustomPotionEffects:[{Id:1b,Amplifier:0b,Duration:16800}],display:{Name:'{"translate":"item.potion.6.name.1","color":"#75FFCD"}',Lore:['{"translate":"empty"}','{"translate":"item.potion.6.lore.1.1"}','{"translate":"item.potion.5.lore.2.1"}','{"translate":"empty"}','{"translate":"item.potion.5.lore.4.1"}','{"translate":"empty"}']}} 1

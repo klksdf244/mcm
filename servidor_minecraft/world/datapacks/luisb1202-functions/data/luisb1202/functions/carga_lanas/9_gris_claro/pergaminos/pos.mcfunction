@@ -1,0 +1,8 @@
+
+execute positioned 192 128.25 1312 unless entity @e[tag=9_pergamino_glowing,distance=..1] run summon armor_stand ~ ~ ~ {Rotation:[190f],Pose:{RightArm:[0f,240f,0f]},HandItems:[{id:"flower_banner_pattern",Count:1b,tag:{9_pergamino:1}},{}],NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["9_pergamino_glowing"],DisabledSlots:65598}
+execute positioned 188 128.25 1295 unless entity @e[tag=9_pergamino_glowing,distance=..1] run summon armor_stand ~ ~ ~ {Rotation:[250f],Pose:{RightArm:[0f,240f,0f]},HandItems:[{id:"flower_banner_pattern",Count:1b,tag:{9_pergamino:1}},{}],NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["9_pergamino_glowing"],DisabledSlots:65598}
+
+execute positioned 192 128.25 1312 unless entity @e[tag=9_pergamino_as,distance=..1] run summon armor_stand ~ ~ ~ {Rotation:[190f],Pose:{RightArm:[0f,240f,0f]},HandItems:[{id:"flower_banner_pattern",Count:1b,tag:{9_pergamino:1}},{}],NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:0b,Invisible:1b,Tags:["9_pergamino_as"],DisabledSlots:65598}
+execute positioned 188 128.25 1295 unless entity @e[tag=9_pergamino_as,distance=..1] run summon armor_stand ~ ~ ~ {Rotation:[250f],Pose:{RightArm:[0f,240f,0f]},HandItems:[{id:"flower_banner_pattern",Count:1b,tag:{9_pergamino:1}},{}],NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:0b,Invisible:1b,Tags:["9_pergamino_as"],DisabledSlots:65598}
+
+team join yellow @e[tag=9_pergamino_glowing]

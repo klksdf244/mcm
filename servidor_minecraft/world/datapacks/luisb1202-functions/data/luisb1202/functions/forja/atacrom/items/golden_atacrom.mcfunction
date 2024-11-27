@@ -1,0 +1,2 @@
+scoreboard players set golden_atacrom danom 1
+data modify entity @e[tag=forja_atacrom,limit=1] ArmorItems set value [{},{id:"chainmail_leggings",Count:1b},{id:"golden_chestplate",Count:1b},{id:"golden_helmet",Count:1b}]

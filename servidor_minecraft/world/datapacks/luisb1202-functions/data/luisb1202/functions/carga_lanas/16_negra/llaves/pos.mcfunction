@@ -1,0 +1,8 @@
+execute positioned -7252.0 3 1460 unless entity @e[tag=16_llave_as,distance=..10] unless entity @e[tag=16_llave_end,distance=..10] run function luisb1202:carga_lanas/16_negra/llaves/gen
+execute positioned -7263 25 1541 unless entity @e[tag=16_llave_as,distance=..10] unless entity @e[tag=16_llave_end,distance=..10] run function luisb1202:carga_lanas/16_negra/llaves/gen
+execute positioned -7042 6 1527 unless entity @e[tag=16_llave_as,distance=..10] unless entity @e[tag=16_llave_end,distance=..10] run function luisb1202:carga_lanas/16_negra/llaves/gen
+execute positioned -7141 11 1413 unless entity @e[tag=16_llave_as,distance=..10] unless entity @e[tag=16_llave_end,distance=..10] run function luisb1202:carga_lanas/16_negra/llaves/gen
+execute positioned -7149 51 1227 unless entity @e[tag=16_llave_as,distance=..10] unless entity @e[tag=16_llave_end,distance=..10] run function luisb1202:carga_lanas/16_negra/llaves/gen
+execute positioned -7226 88 1313 unless entity @e[tag=16_llave_as,distance=..10] unless entity @e[tag=16_llave_end,distance=..10] run function luisb1202:carga_lanas/16_negra/llaves/gen 
+execute positioned -7256 1 1373 unless entity @e[tag=16_llave_as,distance=..10] unless entity @e[tag=16_llave_end,distance=..10] run function luisb1202:carga_lanas/16_negra/llaves/gen 
+execute positioned -7066 22 1282 unless entity @e[tag=16_llave_as,distance=..10] unless entity @e[tag=16_llave_end,distance=..10] run function luisb1202:carga_lanas/16_negra/llaves/gen 

@@ -1,0 +1,21 @@
+execute if entity @s[scores={meteoro_t2=1}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p1
+execute if entity @s[scores={meteoro_t2=2}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p2
+execute if entity @s[scores={meteoro_t2=3}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p3
+execute if entity @s[scores={meteoro_t2=4}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p4
+execute if entity @s[scores={meteoro_t2=5}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p5
+execute if entity @s[scores={meteoro_t2=6}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p6
+execute if entity @s[scores={meteoro_t2=7}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p7
+execute if entity @s[scores={meteoro_t2=8}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p8
+execute if entity @s[scores={meteoro_t2=9}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p9
+execute if entity @s[scores={meteoro_t2=10}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p19
+execute if entity @s[scores={meteoro_t2=11}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p11
+execute if entity @s[scores={meteoro_t2=12}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p12
+execute if entity @s[scores={meteoro_t2=13}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p13
+execute if entity @s[scores={meteoro_t2=14}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p14
+execute if entity @s[scores={meteoro_t2=15}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p15
+execute if entity @s[scores={meteoro_t2=16}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p16
+execute if entity @s[scores={meteoro_t2=17}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p17
+execute if entity @s[scores={meteoro_t2=18}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p18
+execute if entity @s[scores={meteoro_t2=19}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p19
+execute if entity @s[scores={meteoro_t2=20}] run function luisb1202:talentos/impl/f8/meteoro/index_motion/p20
+

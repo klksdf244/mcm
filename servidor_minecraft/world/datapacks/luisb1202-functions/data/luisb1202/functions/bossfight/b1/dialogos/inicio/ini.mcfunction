@@ -1,0 +1,1 @@
+execute as @a run function luisb1202:bossfight/b1/dialogos/inicio/dia

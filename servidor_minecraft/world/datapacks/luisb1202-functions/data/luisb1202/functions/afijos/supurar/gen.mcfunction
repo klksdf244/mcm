@@ -1,0 +1,28 @@
+playsound minecraft:entity.slime.attack master @a ~ ~ ~ 1 0.4
+particle minecraft:totem_of_undying ~ ~1 ~ 0 0 0 0.4 20
+particle minecraft:smoke ~ ~1 ~ 0 0 0 0.1 10
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.191341716182545,0.6,0.461939766255643],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.353553390593274,0.6,0.353553390593274],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.461939766255643,0.6,0.191341716182545],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.5,0.6,0.0],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.461939766255643,0.6,-0.191341716182545],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.353553390593274,0.6,-0.353553390593274],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.191341716182545,0.6,-0.461939766255643],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.0,0.6,-0.5],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[-0.191341716182545,0.6,-0.461939766255643],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[-0.353553390593274,0.6,-0.353553390593274],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[-0.461939766255643,0.6,-0.191341716182545],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[-0.5,0.6,0.0],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[-0.461939766255643,0.6,0.191341716182545],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[-0.353553390593274,0.6,0.353553390593274],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[-0.191341716182545,0.6,0.461939766255643],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+summon armor_stand ~0.2 ~1 ~-0.2 {DisabledSlots:4144959,Pose:{RightArm:[345f,0f,0f]},Invulnerable:1b,Small:1b,Invisible:1b,Motion:[0.0,0.6,0.5],Tags:["supurante","supurante_as","supurante_ini"],HandItems:[{id:"minecraft:slime_block",Count:1b},{}],ArmorItems:[{},{},{},{id:"minecraft:air",Count:1b}]}
+kill @e[tag=supurante_ini,limit=15,sort=random]
+
+#niveles
+execute as @s[tag=afijo_lvl_1] run tag @e[tag=supurante_ini] add afijo_lvl_1
+execute as @s[tag=afijo_lvl_2] run tag @e[tag=supurante_ini] add afijo_lvl_2
+execute as @s[tag=afijo_lvl_3] run tag @e[tag=supurante_ini] add afijo_lvl_3
+
+tag @e[tag=supurante_ini] remove supurante_ini
+schedule function luisb1202:afijos/supurar/main 1t 

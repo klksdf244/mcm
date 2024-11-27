@@ -1,0 +1,1 @@
+execute as @e[tag=mini_koros_hitbox] at @s run tp @s ~ ~20 ~

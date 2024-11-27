@@ -1,0 +1,1 @@
+title @s actionbar ["",{"translate":"luisb1202.functions.bossfight.b2.dialogos.final.dia_index.dia_node_16.1","color":"gray"},{"score":{"name":"escudo_cristalino_cd","objective":"danom"},"color":"yellow"},{"translate":"luisb1202.functions.items.escudo_cristalino.lanzar.error_cd.1","color":"gray"}]

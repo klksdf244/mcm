@@ -1,0 +1,19 @@
+
+
+summon iron_golem ~ ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~2 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~4 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~6 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~8 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~10 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~12 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~14 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~16 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~18 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~20 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~22 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~24 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~26 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~28 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~30 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}
+summon iron_golem ~32 ~-2 ~ {DeathLootTable:"none",Silent:1,Fire:999999,NoGravity:1b,Invulnerable:1b,NoAI:1b,Tags:["b3_campo_plasma","b3_campo_plasma_tp"],ActiveEffects:[{Id:14b,Amplifier:1b,Duration:999999,ShowParticles:false}]}

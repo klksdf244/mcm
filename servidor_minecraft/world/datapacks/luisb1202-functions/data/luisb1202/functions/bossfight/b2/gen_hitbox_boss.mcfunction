@@ -1,0 +1,14 @@
+execute as @e[tag=boss] at @s run tp @s ~ -100 ~
+kill @e[tag=boss]
+
+scoreboard players set b2_h8_players boss2 0
+execute as @a run scoreboard players add b2_h8_players boss2 1
+
+execute if score b2_h8_players boss2 matches 1 run summon magma_cube -1505 43 2305 {Silent:1,Size:4,Rotation:[90F,0F],PersistenceRequired:true,ActiveEffects:[{Duration:999999,Id:11b,Amplifier:0b,ShowParticles:false},{Duration:999999,Id:14b,Amplifier:0b,ShowParticles:false}],Tags:["boss","thar_kroo_boss","hostile"],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],HandDropChances:[0.0f,0.0f],DeathLootTable:"empty",NoAI:1,Health:450f,Attributes:[{Name:"generic.max_health",Base:450},{Name:"generic.movement_speed",Base:0.0}]}
+execute if score b2_h8_players boss2 matches 2 run summon magma_cube -1505 43 2305 {Silent:1,Size:4,Rotation:[90F,0F],PersistenceRequired:true,ActiveEffects:[{Duration:999999,Id:11b,Amplifier:0b,ShowParticles:false},{Duration:999999,Id:14b,Amplifier:0b,ShowParticles:false}],Tags:["boss","thar_kroo_boss","hostile"],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],HandDropChances:[0.0f,0.0f],DeathLootTable:"empty",NoAI:1,Health:770f,Attributes:[{Name:"generic.max_health",Base:770},{Name:"generic.movement_speed",Base:0.0}]}
+execute if score b2_h8_players boss2 matches 3 run summon magma_cube -1505 43 2305 {Silent:1,Size:4,Rotation:[90F,0F],PersistenceRequired:true,ActiveEffects:[{Duration:999999,Id:11b,Amplifier:0b,ShowParticles:false},{Duration:999999,Id:14b,Amplifier:0b,ShowParticles:false}],Tags:["boss","thar_kroo_boss","hostile"],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],HandDropChances:[0.0f,0.0f],DeathLootTable:"empty",NoAI:1,Health:800f,Attributes:[{Name:"generic.max_health",Base:800},{Name:"generic.movement_speed",Base:0.0}]}
+execute if score b2_h8_players boss2 matches 4 run summon magma_cube -1505 43 2305 {Silent:1,Size:4,Rotation:[90F,0F],PersistenceRequired:true,ActiveEffects:[{Duration:999999,Id:11b,Amplifier:0b,ShowParticles:false},{Duration:999999,Id:14b,Amplifier:0b,ShowParticles:false}],Tags:["boss","thar_kroo_boss","hostile"],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],HandDropChances:[0.0f,0.0f],DeathLootTable:"empty",NoAI:1,Health:900f,Attributes:[{Name:"generic.max_health",Base:900},{Name:"generic.movement_speed",Base:0.0}]}
+execute if score b2_h8_players boss2 matches 5.. run summon magma_cube -1505 43 2305 {Silent:1,Size:4,Rotation:[90F,0F],PersistenceRequired:true,ActiveEffects:[{Duration:999999,Id:11b,Amplifier:0b,ShowParticles:false},{Duration:999999,Id:14b,Amplifier:0b,ShowParticles:false}],Tags:["boss","thar_kroo_boss","hostile"],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],HandDropChances:[0.0f,0.0f],DeathLootTable:"empty",NoAI:1,Health:1000f,Attributes:[{Name:"generic.max_health",Base:1000},{Name:"generic.movement_speed",Base:0.0}]}
+
+scoreboard players set boss_vida boss 100
+function luisb1202:bossfight/b2/setvida

@@ -1,0 +1,2 @@
+execute positioned 1700 -100 694 if entity @p[dx=290,dz=359,dy=400] if entity @e[tag=neutron,dx=290,dz=359,dy=400] run schedule function luisb1202:carga_lanas/5_azul_claro/particulas/carga_azul 1t
+execute at @e[tag=neutron] run particle dust 0 0.816 1 1 ~ ~2 ~ 0.25 0.25 0.25 1 3 force

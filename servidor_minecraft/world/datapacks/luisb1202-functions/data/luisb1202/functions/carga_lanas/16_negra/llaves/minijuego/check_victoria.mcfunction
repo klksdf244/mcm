@@ -1,0 +1,1 @@
+execute if score 16_minijuego_1 danom = 16_minijuego_5 danom if score 16_minijuego_2 danom = 16_minijuego_5 danom if score 16_minijuego_3 danom = 16_minijuego_5 danom if score 16_minijuego_4 danom = 16_minijuego_5 danom run schedule function luisb1202:carga_lanas/16_negra/llaves/minijuego/victoria 10t

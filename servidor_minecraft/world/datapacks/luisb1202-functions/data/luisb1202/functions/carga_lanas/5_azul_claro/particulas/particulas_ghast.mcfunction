@@ -1,0 +1,16 @@
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^0.923879532511287 ^-0.38268343236509 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^0.707106781186548 ^-0.707106781186548 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^0.38268343236509 ^-0.923879532511287 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^0 ^-1 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^-0.38268343236509 ^-0.923879532511287 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^-0.707106781186548 ^-0.707106781186548 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^-0.923879532511287 ^-0.38268343236509 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^-1 ^0 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^-0.923879532511287 ^0.38268343236509 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^-0.707106781186548 ^0.707106781186548 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^-0.38268343236509 ^0.923879532511287 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^0 ^1 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^0.38268343236509 ^0.923879532511287 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^0.707106781186547 ^0.707106781186548 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^0.923879532511287 ^0.38268343236509 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~2 ~ rotated as @s run particle minecraft:flame ^1 ^0 ^ 0 -1 0 100000 0 force @s

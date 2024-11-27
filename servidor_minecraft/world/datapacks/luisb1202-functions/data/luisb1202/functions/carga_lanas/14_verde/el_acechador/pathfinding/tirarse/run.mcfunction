@@ -1,0 +1,2 @@
+execute as @e[tag=14_acechador_pata_core,scores={aux3=1..}] run function luisb1202:carga_lanas/14_verde/el_acechador/pathfinding/tirarse/i_run
+execute if entity @e[tag=14_acechador_pata_core,scores={aux3=1..}] run schedule function luisb1202:carga_lanas/14_verde/el_acechador/pathfinding/tirarse/run 1t

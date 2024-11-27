@@ -1,0 +1,1 @@
+give @p honeycomb{Enchantments:[{}],RepairCost:999999,Unbreakable:1,display:{Name:'{"translate":"item.honeycomb.1.name.1"}',Lore:['{"translate":"empty"}','{"translate":"item.prismarine_shard.3.lore.1.1"}','{"translate":"item.honeycomb.1.lore.2.1"}','{"translate":"empty"}','{"translate":"item.feather.2.lore.1.1"}']},aura_colmena:1} 1

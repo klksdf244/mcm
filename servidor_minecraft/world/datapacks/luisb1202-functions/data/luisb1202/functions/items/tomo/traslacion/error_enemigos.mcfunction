@@ -1,0 +1,2 @@
+title @s actionbar ["",{"translate":"luisb1202.functions.items.tomo.traslacion.error_enemigos.1","color":"red"},{"translate":"luisb1202.functions.items.tomo.traslacion.error_enemigos.2","color": "gray","italic": true}]
+execute at @s run playsound block.anvil.land master @s ~ ~ ~ 1 2

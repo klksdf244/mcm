@@ -1,0 +1,1 @@
+data modify entity @e[tag=sangrifer_skull,limit=1] CustomName set value '{"translate":"luisb1202.functions.items.sangrifer.cerrar_boca.1"}'

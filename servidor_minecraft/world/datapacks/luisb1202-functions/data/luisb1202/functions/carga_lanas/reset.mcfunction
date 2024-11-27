@@ -1,0 +1,22 @@
+function luisb1202:carga_lanas/0_intro/reset
+function luisb1202:carga_lanas/1_blanca/reset
+function luisb1202:carga_lanas/2_naranja/reset
+function luisb1202:carga_lanas/3_magenta/reset
+function luisb1202:carga_lanas/4_morado/reset
+function luisb1202:carga_lanas/5_azul_claro/reset
+function luisb1202:carga_lanas/6_lima/reset
+function luisb1202:carga_lanas/7_amarillo/reset
+function luisb1202:carga_lanas/8_rosa/reset
+function luisb1202:carga_lanas/9_gris_claro/reset
+function luisb1202:carga_lanas/10_gris/reset
+function luisb1202:carga_lanas/11_cian/reset
+function luisb1202:carga_lanas/12_azul/reset
+function luisb1202:carga_lanas/13_marron/reset
+function luisb1202:carga_lanas/14_verde/reset
+function luisb1202:carga_lanas/15_roja/reset
+function luisb1202:carga_lanas/16_negra/reset
+function luisb1202:carga_lanas/monumento/reset
+function luisb1202:carga_lanas/no_lana/reset
+function luisb1202:carga_lanas/nexo/reset
+function luisb1202:carga_lanas/reset_thar_kroo_force_load
+

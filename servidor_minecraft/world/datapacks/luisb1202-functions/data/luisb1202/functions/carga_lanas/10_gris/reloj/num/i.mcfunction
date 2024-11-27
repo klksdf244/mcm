@@ -1,0 +1,1 @@
+summon armor_stand ~-0.2 ~-0.45 ~ {HandItems:[{id:"stick",Count:1b},{}],Pose:{RightArm:[80f,90f,0f]},NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["10_num_reloj_as"],DisabledSlots:4144959}

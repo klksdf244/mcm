@@ -1,0 +1,2 @@
+execute as @s[scores={aliento_veneno=5..,imp=1..}] run function luisb1202:items/aliento_veneno/ini
+execute as @s[scores={killcount=1..}] unless entity @e[tag=aliento_veneno_cd] run function luisb1202:items/aliento_veneno/add_carga

@@ -1,0 +1,1 @@
+execute as @a at @s run playsound minecraft:entity.player.breath master @s ~ ~ ~ 0.7 0.9

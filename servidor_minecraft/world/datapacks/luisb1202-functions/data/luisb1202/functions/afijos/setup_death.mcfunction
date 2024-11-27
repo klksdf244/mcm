@@ -1,0 +1,13 @@
+tag @s add death_afijo_setup
+execute run data modify entity @s[tag=afijo_lvl_1,tag=afijo_vengativo] DeathLootTable set value "luisb1202:entities/vengativo"
+execute run data modify entity @s[tag=afijo_lvl_2,tag=afijo_vengativo] DeathLootTable set value "luisb1202:entities/vengativo2"
+execute run data modify entity @s[tag=afijo_lvl_3,tag=afijo_vengativo] DeathLootTable set value "luisb1202:entities/vengativo3"
+execute run data modify entity @s[tag=afijo_lvl_1,tag=afijo_potenciante] DeathLootTable set value "luisb1202:entities/potenciante"
+execute run data modify entity @s[tag=afijo_lvl_2,tag=afijo_potenciante] DeathLootTable set value "luisb1202:entities/potenciante2"
+execute run data modify entity @s[tag=afijo_lvl_3,tag=afijo_potenciante] DeathLootTable set value "luisb1202:entities/potenciante3"
+execute run data modify entity @s[tag=afijo_lvl_1,tag=afijo_asolador] DeathLootTable set value "luisb1202:entities/asolar"
+execute run data modify entity @s[tag=afijo_lvl_2,tag=afijo_asolador] DeathLootTable set value "luisb1202:entities/asolar2"
+execute run data modify entity @s[tag=afijo_lvl_3,tag=afijo_asolador] DeathLootTable set value "luisb1202:entities/asolar3"
+execute run data modify entity @s[tag=afijo_lvl_1,tag=afijo_detonante] DeathLootTable set value "luisb1202:entities/detonante1"
+execute run data modify entity @s[tag=afijo_lvl_2,tag=afijo_detonante] DeathLootTable set value "luisb1202:entities/detonante2"
+execute run data modify entity @s[tag=afijo_lvl_3,tag=afijo_detonante] DeathLootTable set value "luisb1202:entities/detonante3"

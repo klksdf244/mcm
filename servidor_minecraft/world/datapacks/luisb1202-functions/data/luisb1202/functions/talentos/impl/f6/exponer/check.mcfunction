@@ -1,0 +1,1 @@
+execute if predicate luisb1202:random6 unless entity @s[tag=boss] run function luisb1202:talentos/impl/f6/exponer/ini

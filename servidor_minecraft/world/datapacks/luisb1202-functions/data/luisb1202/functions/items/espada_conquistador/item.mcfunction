@@ -1,0 +1,5 @@
+summon item -1459 114 1405.15 {PickupDelay:30,Age:-32768,Motion:[0.0,0.4,0.0],CustomNameVisible:1b,CustomName:'{"translate":"luisb1202.functions.items.espada_conquistador.item.1","color":"#987764"}',Item:{id:"iron_nugget",Count:1b,tag:{CustomModelData:1202009,display:{Name:'{"translate":"luisb1202.functions.items.espada_conquistador.item.1","color":"#987764"}',Lore:['{"translate":"empty"}','{"translate":"luisb1202.functions.items.espada_conquistador.item.2"}','{"translate":"luisb1202.functions.items.espada_conquistador.item.3"}','{"translate":"luisb1202.functions.items.espada_conquistador.item.4"}','{"translate":"luisb1202.functions.items.espada_conquistador.item.5"}','{"translate":"luisb1202.functions.items.espada_conquistador.item.6"}','{"translate":"luisb1202.functions.items.espada_conquistador.item.7"}','{"translate":"empty"}','{"translate":"item.fermented_spider_eye.1.lore.12.1"}','{"translate":"empty"}']},HideFlags:127,Enchantments:[{}],espada_conquistador:1}}}
+playsound entity.experience_orb.pickup master @a -1459 114 1405.15 1 2
+particle explosion -1459 114 1405.15
+
+

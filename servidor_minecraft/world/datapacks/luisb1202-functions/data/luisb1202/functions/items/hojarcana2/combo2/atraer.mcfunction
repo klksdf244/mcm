@@ -1,0 +1,1 @@
+execute at @e[tag=hojarcana2_atraer_as,limit=1] as @e[distance=..16,tag=hostile,tag=!b4_h2_espada_hitbox] unless entity @s[nbt={Invulnerable:1b}] unless entity @s[nbt={NoAI:1b}] at @s facing entity @e[tag=hojarcana2_atraer_as,limit=1] eyes if block ^ ^ ^0.3 #luisb1202:noground run tp @s ^ ^ ^0.3

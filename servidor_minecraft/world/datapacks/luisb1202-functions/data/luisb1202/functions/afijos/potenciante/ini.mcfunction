@@ -1,0 +1,2 @@
+execute as @s positioned as @s run function luisb1202:afijos/potenciante/particulas
+execute as @s positioned as @s run execute as @e[tag=hostile,distance=..10,sort=nearest,limit=5,nbt=!{PersistenceRequired:1b}] positioned as @s run function luisb1202:afijos/furibundo/ini

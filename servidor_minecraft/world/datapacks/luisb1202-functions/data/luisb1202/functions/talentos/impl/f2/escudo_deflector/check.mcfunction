@@ -1,0 +1,1 @@
+execute as @a[tag=talento_23,scores={deflector_cd=..0}] at @s positioned ^ ^ ^ if entity @e[type=arrow,distance=..3,nbt={pickup:0b,inGround:0b}] run function luisb1202:talentos/impl/f2/escudo_deflector/ini

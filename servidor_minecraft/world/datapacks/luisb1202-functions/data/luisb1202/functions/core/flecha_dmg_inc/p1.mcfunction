@@ -1,0 +1,10 @@
+execute as @s[type=arrow,scores={arrowdmg=1}] run data modify entity @s damage set value 3.3
+execute as @s[type=arrow,scores={arrowdmg=2}] run data modify entity @s damage set value 3.6
+execute as @s[type=arrow,scores={arrowdmg=3}] run data modify entity @s damage set value 3.9
+execute as @s[type=arrow,scores={arrowdmg=4}] run data modify entity @s damage set value 4.2
+execute as @s[type=arrow,scores={arrowdmg=5}] run data modify entity @s damage set value 4.5
+execute as @s[type=arrow,scores={arrowdmg=6}] run data modify entity @s damage set value 4.8
+execute as @s[type=arrow,scores={arrowdmg=7}] run data modify entity @s damage set value 5.1
+execute as @s[type=arrow,scores={arrowdmg=8}] run data modify entity @s damage set value 5.4
+execute as @s[type=arrow,scores={arrowdmg=9}] run data modify entity @s damage set value 5.7
+execute as @s[type=arrow,scores={arrowdmg=10..}] run data modify entity @s damage set value 6

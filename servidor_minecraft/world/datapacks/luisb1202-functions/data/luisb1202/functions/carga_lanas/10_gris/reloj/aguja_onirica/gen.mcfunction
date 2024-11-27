@@ -1,0 +1,11 @@
+kill @e[tag=10_aguja_onirica_reloj_as]
+execute positioned 764 112 1690.85 run summon armor_stand ~0.1 ~ ~ {Rotation:[-90f,-90f],NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["10_aguja_onirica_reloj_as","10_aguja_onirica_reloj_core"],DisabledSlots:4144959}
+execute at @e[tag=10_aguja_onirica_reloj_core] run summon armor_stand ^ ^ ^0.6 {ArmorItems:[{},{},{},{id:"warped_slab",Count:1b}],Pose:{Head:[0.00001f,0.00001f,0.00001f]},NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["10_aguja_onirica_reloj_as","10_aguja_onirica_reloj_as1"],DisabledSlots:4144959}
+execute at @e[tag=10_aguja_onirica_reloj_core] run summon armor_stand ^ ^ ^1.2 {ArmorItems:[{},{},{},{id:"warped_slab",Count:1b}],Pose:{Head:[0.00001f,0.00001f,0.00001f]},NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["10_aguja_onirica_reloj_as","10_aguja_onirica_reloj_as2"],DisabledSlots:4144959}
+execute at @e[tag=10_aguja_onirica_reloj_core] run summon armor_stand ^ ^ ^1.8 {ArmorItems:[{},{},{},{id:"warped_slab",Count:1b}],Pose:{Head:[0.00001f,0.00001f,0.00001f]},NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["10_aguja_onirica_reloj_as","10_aguja_onirica_reloj_as3"],DisabledSlots:4144959}
+execute at @e[tag=10_aguja_onirica_reloj_core] run summon armor_stand ^ ^ ^2.4 {ArmorItems:[{},{},{},{id:"warped_slab",Count:1b}],Pose:{Head:[0.00001f,0.00001f,0.00001f]},NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["10_aguja_onirica_reloj_as","10_aguja_onirica_reloj_as4"],DisabledSlots:4144959}
+execute at @e[tag=10_aguja_onirica_reloj_core] run summon armor_stand ^ ^ ^3 {ArmorItems:[{},{},{},{id:"warped_slab",Count:1b}],Pose:{Head:[0.00001f,0.00001f,0.00001f]},NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["10_aguja_onirica_reloj_as","10_aguja_onirica_reloj_as5"],DisabledSlots:4144959}
+execute at @e[tag=10_aguja_onirica_reloj_core] run summon armor_stand ^ ^ ^3.6 {ArmorItems:[{},{},{},{id:"warped_slab",Count:1b}],Pose:{Head:[0.00001f,0.00001f,0.00001f]},NoGravity:1b,Silent:1b,Invulnerable:1b,Small:0b,Marker:1b,Invisible:1b,Tags:["10_aguja_onirica_reloj_as","10_aguja_onirica_reloj_as6"],DisabledSlots:4144959}
+
+
+function luisb1202:carga_lanas/10_gris/reloj/aguja_onirica/pos

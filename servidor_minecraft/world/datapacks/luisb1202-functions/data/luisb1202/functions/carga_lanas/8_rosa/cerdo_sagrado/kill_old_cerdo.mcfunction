@@ -1,0 +1,1 @@
+execute as @e[tag=8_cerdo] run function luisb1202:carga_lanas/8_rosa/cerdo_sagrado/kill_old_cerdo2

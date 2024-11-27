@@ -1,0 +1,35 @@
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.117054193209677,0.4,0.588471168241938]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.229610059419054,0.4,0.554327719506772]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.333342139811761,0.4,0.498881767381527]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.424264068711928,0.4,0.424264068711929]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.498881767381527,0.4,0.333342139811761]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.554327719506772,0.4,0.229610059419054]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.588471168241938,0.4,0.117054193209677]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.6,0.4,0.0]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.588471168241938,0.4,-0.117054193209677]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.554327719506772,0.4,-0.229610059419054]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.498881767381527,0.4,-0.333342139811761]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.424264068711929,0.4,-0.424264068711928]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.333342139811761,0.4,-0.498881767381527]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.229610059419054,0.4,-0.554327719506772]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.117054193209677,0.4,-0.588471168241938]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.0,0.4,-0.6]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.117054193209677,0.4,-0.588471168241938]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.229610059419054,0.4,-0.554327719506772]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.333342139811761,0.4,-0.498881767381527]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.424264068711928,0.4,-0.424264068711929]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.498881767381527,0.4,-0.333342139811761]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.554327719506772,0.4,-0.229610059419054]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.588471168241938,0.4,-0.117054193209677]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.6,0.4,0.0]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.588471168241938,0.4,0.117054193209677]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.554327719506772,0.4,0.229610059419054]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.498881767381527,0.4,0.333342139811761]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.424264068711929,0.4,0.424264068711928]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.333342139811761,0.4,0.498881767381527]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.229610059419054,0.4,0.554327719506772]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[-0.117054193209677,0.4,0.588471168241938]}
+summon armor_stand ~ ~ ~ {NoGravity:0b,Silent:1b,Invulnerable:1b,Small:1b,Marker:0b,Invisible:1b,Tags:["partealmas_verde","partealmas_as","partealmas_as_ini"],Motion:[0.0,0.4,0.6]}
+
+kill @e[tag=partealmas_verde,tag=partealmas_as_ini,limit=31,sort=random]
+summon armor_stand ~ ~ ~ {CustomNameVisible:1b,CustomName:'{"translate":"score.DeathCount.name.2","color":"#14FFA9"}',NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["partealmas_verde_skull","partealmas_as","partealmas_skull"]}

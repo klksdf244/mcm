@@ -1,0 +1,1 @@
+execute as @s if predicate luisb1202:random2.5 unless entity @e[tag=aliento_hielo_cd] run function luisb1202:items/aliento_hielo/add_cristal

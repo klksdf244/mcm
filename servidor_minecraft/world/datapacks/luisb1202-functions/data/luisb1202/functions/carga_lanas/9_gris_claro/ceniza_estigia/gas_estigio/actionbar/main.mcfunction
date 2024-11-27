@@ -1,0 +1,3 @@
+execute as @a[scores={id_lana=9,9_respiradero_id=1..,9_oxigeno=1..}] at @s positioned 555 23 1284 unless entity @s[distance=..20] run scoreboard players remove @s 9_respiradero_id 1
+execute as @a[scores={id_lana=9,9_respiradero_id=..0,9_oxigeno=1..}] run function luisb1202:carga_lanas/9_gris_claro/ceniza_estigia/gas_estigio/actionbar/disminuir
+execute as @a[scores={id_lana=9,9_oxigeno=..0}] at @s run function luisb1202:carga_lanas/9_gris_claro/ceniza_estigia/gas_estigio/actionbar/asfixia

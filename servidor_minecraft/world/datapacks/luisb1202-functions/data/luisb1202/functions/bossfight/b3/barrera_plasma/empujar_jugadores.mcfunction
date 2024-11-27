@@ -1,0 +1,2 @@
+execute at @e[tag=b3_campo_plasma_centro] positioned ~-21 0 ~-20 as @a[gamemode=!spectator] unless entity @s[dx=42,dy=300,dz=38] at @e[tag=b3_campo_plasma_centro] positioned ~-100 0 ~ if entity @s[dx=200,dy=300,dz=200] at @s run tp @s ~ ~ ~-0.4
+execute at @e[tag=b3_campo_plasma_centro] positioned ~-21 0 ~-20 as @a[gamemode=!spectator] unless entity @s[dx=42,dy=300,dz=38] run schedule function luisb1202:bossfight/b3/barrera_plasma/empujar_jugadores 1t

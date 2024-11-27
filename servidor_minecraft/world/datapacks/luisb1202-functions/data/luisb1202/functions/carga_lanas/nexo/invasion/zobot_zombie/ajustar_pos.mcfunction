@@ -1,0 +1,1 @@
+execute as @e[tag=invasion_zombie_pos_ini] at @s if block ~ ~-1 ~ #luisb1202:noground run tp @s ~ ~-1 ~

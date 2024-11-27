@@ -1,0 +1,1 @@
+execute unless entity @e[tag=koros_copia_girillo_cd] run function luisb1202:talentos/altar/copia_koros/girillo/gen

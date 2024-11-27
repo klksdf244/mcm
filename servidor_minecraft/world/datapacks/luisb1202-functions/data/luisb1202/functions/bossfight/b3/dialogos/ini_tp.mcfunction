@@ -1,0 +1,1 @@
+execute if predicate luisb1202:random3 run function luisb1202:bossfight/b3/dialogos/dia_tp

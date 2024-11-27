@@ -1,0 +1,2 @@
+title @s actionbar ["",{"translate":"luisb1202.functions.items.glaivorus.error_cd.1","color":"red"},{"translate":"luisb1202.functions.items.glaivorus.error_cd.2","color":"red"},{"translate":"luisb1202.functions.items.glaivorus.error_cd.3","color":"gray"},{"score":{"name":"@s","objective":"glaivorus_cd"},"color":"gray"},{"translate":"luisb1202.functions.items.glaivorus.error_cd.4","color":"gray"}]
+execute at @s run playsound block.note_block.pling master @s ~ ~ ~ 1 2

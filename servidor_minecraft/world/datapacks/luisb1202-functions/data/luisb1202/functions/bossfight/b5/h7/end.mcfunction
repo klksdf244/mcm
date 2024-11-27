@@ -1,0 +1,1 @@
+data modify entity @e[tag=gari_boss,limit=1] NoAI set value 0

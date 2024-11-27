@@ -1,0 +1,2 @@
+execute if predicate luisb1202:random2 run function luisb1202:carga_lanas/11_cian/hierba/campanita/ini3
+execute unless entity @e[tag=11_hierba_melodia_cd] run function luisb1202:carga_lanas/11_cian/hierba/campanita/ini2

@@ -1,0 +1,2 @@
+execute as @e[tag=invasion_mina_core,type=falling_block] run data modify entity @s Time set value 1
+execute if entity @e[tag=invasion_mina_core,type=falling_block] run schedule function luisb1202:carga_lanas/nexo/invasion/mina_aerea/run 1t

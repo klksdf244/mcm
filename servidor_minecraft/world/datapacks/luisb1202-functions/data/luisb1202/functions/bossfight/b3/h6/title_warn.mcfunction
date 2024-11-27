@@ -1,0 +1,70 @@
+title @a times 0 40 10
+title @a title {"translate":"score.DeathCount.name.2","color": "red"}
+title @a subtitle {"translate":"luisb1202.functions.bossfight.b3.h6.title_warn.1","color": "red","bold": true}
+execute as @a at @s run playsound minecraft:block.note_block.pling master @s ~ ~ ~ 2 1.4
+scoreboard players set b3_h6_warnt2 boss 0
+
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~0.735128552471705 ~0.1 ~7.46388545004148 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~1.46317741512096 ~0.1 ~7.35588960302423 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~2.17713507940847 ~0.1 ~7.17705251799157 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~2.87012574273817 ~0.1 ~6.92909649383465 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~3.53547552619498 ~0.1 ~6.61440948261266 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~4.16677674764702 ~0.1 ~6.23602209226909 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~4.75794963122734 ~0.1 ~5.79757840022053 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~5.30330085889911 ~0.1 ~5.30330085889911 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~5.79757840022053 ~0.1 ~4.75794963122734 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~6.23602209226909 ~0.1 ~4.16677674764702 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~6.61440948261266 ~0.1 ~3.53547552619498 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~6.92909649383465 ~0.1 ~2.87012574273817 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~7.17705251799157 ~0.1 ~2.17713507940847 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~7.35588960302423 ~0.1 ~1.46317741512096 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~7.46388545004148 ~0.1 ~0.735128552471704 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~7.5 ~0.1 ~0 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~7.46388545004148 ~0.1 ~-0.735128552471705 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~7.35588960302423 ~0.1 ~-1.46317741512096 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~7.17705251799157 ~0.1 ~-2.17713507940847 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~6.92909649383465 ~0.1 ~-2.87012574273817 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~6.61440948261266 ~0.1 ~-3.53547552619498 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~6.23602209226909 ~0.1 ~-4.16677674764702 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~5.79757840022053 ~0.1 ~-4.75794963122734 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~5.30330085889911 ~0.1 ~-5.30330085889911 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~4.75794963122734 ~0.1 ~-5.79757840022053 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~4.16677674764702 ~0.1 ~-6.23602209226909 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~3.53547552619498 ~0.1 ~-6.61440948261266 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~2.87012574273817 ~0.1 ~-6.92909649383465 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~2.17713507940847 ~0.1 ~-7.17705251799157 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~1.46317741512096 ~0.1 ~-7.35588960302423 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~0.735128552471706 ~0.1 ~-7.46388545004148 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~0 ~0.1 ~-7.5 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-0.735128552471704 ~0.1 ~-7.46388545004148 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-1.46317741512096 ~0.1 ~-7.35588960302423 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-2.17713507940847 ~0.1 ~-7.17705251799157 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-2.87012574273817 ~0.1 ~-6.92909649383465 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-3.53547552619498 ~0.1 ~-6.61440948261266 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-4.16677674764702 ~0.1 ~-6.23602209226909 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-4.75794963122734 ~0.1 ~-5.79757840022053 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-5.30330085889911 ~0.1 ~-5.30330085889911 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-5.79757840022053 ~0.1 ~-4.75794963122734 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-6.23602209226909 ~0.1 ~-4.16677674764702 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-6.61440948261266 ~0.1 ~-3.53547552619498 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-6.92909649383465 ~0.1 ~-2.87012574273817 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-7.17705251799157 ~0.1 ~-2.17713507940847 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-7.35588960302423 ~0.1 ~-1.46317741512097 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-7.46388545004148 ~0.1 ~-0.735128552471703 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-7.5 ~0.1 ~0 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-7.46388545004148 ~0.1 ~0.735128552471701 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-7.35588960302423 ~0.1 ~1.46317741512096 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-7.17705251799157 ~0.1 ~2.17713507940847 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-6.92909649383465 ~0.1 ~2.87012574273818 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-6.61440948261266 ~0.1 ~3.53547552619498 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-6.23602209226909 ~0.1 ~4.16677674764701 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-5.79757840022053 ~0.1 ~4.75794963122734 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-5.30330085889911 ~0.1 ~5.30330085889911 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-4.75794963122734 ~0.1 ~5.79757840022053 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-4.16677674764702 ~0.1 ~6.23602209226909 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-3.53547552619498 ~0.1 ~6.61440948261266 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-2.87012574273817 ~0.1 ~6.92909649383465 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-2.17713507940847 ~0.1 ~7.17705251799157 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-1.46317741512097 ~0.1 ~7.35588960302423 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~-0.735128552471704 ~0.1 ~7.46388545004148 0 0 0 0 0
+execute at @e[tag=b3_h6_as] run particle dust 1 0 0 1.3 ~0 ~0.1 ~7.5 0 0 0 0 0

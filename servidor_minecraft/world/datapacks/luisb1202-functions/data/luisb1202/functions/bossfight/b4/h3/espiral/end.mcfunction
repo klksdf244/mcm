@@ -1,0 +1,1 @@
+kill @e[tag=b4_h3_espiral]

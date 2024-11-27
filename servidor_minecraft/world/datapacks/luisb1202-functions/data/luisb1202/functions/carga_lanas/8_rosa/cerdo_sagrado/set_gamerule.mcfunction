@@ -1,0 +1,2 @@
+
+gamerule mobGriefing true

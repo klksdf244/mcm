@@ -1,0 +1,3 @@
+execute as @s unless entity @s[scores={filo_exanime=8..}] run scoreboard players add @s filo_exanime 1
+title @s actionbar ["",{"translate":"luisb1202.functions.items.filo_exanime.check.1","color":"aqua"},{"score":{"name":"@s","objective":"filo_exanime"},"color":"#B4FFFF"},{"translate":"item.written_book.5.page.2.5","color":"aqua"},{"translate":"luisb1202.functions.carga_lanas.14_verde.matriz_defensa.morir.1","color":"#B4FFFF"},{"translate":"empty","color":"aqua"}]
+title @s[scores={filo_exanime=8..}] actionbar ["",{"translate":"luisb1202.functions.items.filo_exanime.check.2"}]

@@ -1,0 +1,16 @@
+execute as @s[scores={vision=1}] run function luisb1202:items/tomo/bastion/particulas_impacto/1
+execute as @s[scores={vision=2}] run function luisb1202:items/tomo/bastion/particulas_impacto/2
+execute as @s[scores={vision=3}] run function luisb1202:items/tomo/bastion/particulas_impacto/3
+execute as @s[scores={vision=4}] run function luisb1202:items/tomo/bastion/particulas_impacto/4
+execute as @s[scores={vision=5}] run function luisb1202:items/tomo/bastion/particulas_impacto/5
+execute as @s[scores={vision=6}] run function luisb1202:items/tomo/bastion/particulas_impacto/6
+execute as @s[scores={vision=7}] run function luisb1202:items/tomo/bastion/particulas_impacto/7
+execute as @s[scores={vision=8}] run function luisb1202:items/tomo/bastion/particulas_impacto/8
+execute as @s[scores={vision=9}] run function luisb1202:items/tomo/bastion/particulas_impacto/9
+execute as @s[scores={vision=10}] run function luisb1202:items/tomo/bastion/particulas_impacto/10
+execute as @s[scores={vision=11}] run function luisb1202:items/tomo/bastion/particulas_impacto/11
+execute as @s[scores={vision=12}] run function luisb1202:items/tomo/bastion/particulas_impacto/12
+execute as @s[scores={vision=13}] run function luisb1202:items/tomo/bastion/particulas_impacto/13
+execute as @s[scores={vision=14}] run function luisb1202:items/tomo/bastion/particulas_impacto/14
+execute as @s[scores={vision=15}] run function luisb1202:items/tomo/bastion/particulas_impacto/15
+execute as @s[scores={vision=16}] run function luisb1202:items/tomo/bastion/particulas_impacto/16

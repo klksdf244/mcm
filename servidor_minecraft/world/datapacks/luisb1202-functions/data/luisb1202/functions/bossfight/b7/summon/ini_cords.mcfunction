@@ -1,0 +1,1 @@
+execute positioned -642 153 -74 run function luisb1202:bossfight/b7/summon/ini_inversed

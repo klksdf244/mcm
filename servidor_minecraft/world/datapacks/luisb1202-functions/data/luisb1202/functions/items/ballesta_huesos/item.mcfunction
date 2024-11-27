@@ -1,0 +1,2 @@
+
+give @p crossbow{RepairCost:999999,Unbreakable:1,display:{Name:'{"translate":"item.crossbow.7.name.1"}',Lore:['{"translate":"empty"}','{"translate":"item.crossbow.7.lore.1.1"}','{"translate":"luisb1202.functions.items.ballesta_huesos.item.1"}','{"translate":"empty"}','{"translate":"item.carrot_on_a_stick.4.lore.12.1"}','{"translate":"empty"}']},Enchantments:[{id:"minecraft:quick_charge",lvl:2s}],ballesta_huesos:1} 1

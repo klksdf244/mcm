@@ -1,0 +1,1 @@
+give @p blaze_powder{Enchantments:[{}],RepairCost:999999,Unbreakable:1,display:{Name:'{"translate":"item.blaze_powder.3.name.1"}',Lore:['{"translate":"empty"}','{"translate":"item.blaze_powder.3.lore.1.1"}','{"translate":"item.blaze_powder.3.lore.2.1"}','{"translate":"empty"}','{"translate":"item.feather.2.lore.1.1"}']},reminiscente_fuego:1} 1

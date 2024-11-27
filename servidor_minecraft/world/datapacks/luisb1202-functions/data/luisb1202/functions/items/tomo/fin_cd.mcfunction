@@ -1,0 +1,2 @@
+title @a[scores={tomo_cd=1}] actionbar ["",{"translate":"luisb1202.functions.items.tomo.fin_cd.1","color":"red"}]
+execute as @a[scores={tomo_cd=1}] at @s run playsound ui.button.click master @s ~ ~ ~ 0.5 1.5

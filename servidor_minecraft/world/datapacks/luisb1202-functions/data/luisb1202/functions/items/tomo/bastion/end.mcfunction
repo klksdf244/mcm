@@ -1,0 +1,45 @@
+particle minecraft:large_smoke ^-1.6992 ^2.31936032 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-1.3216 ^2.08887328 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-0.944 ^2.000968 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-0.5664 ^2.05564448 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-0.1888 ^2.25290272 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^0.1888 ^2.25290272 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^0.5664 ^2.05564448 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^0.944 ^2.000968 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^1.3216 ^2.08887328 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^1.6992 ^2.31936032 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-1.888 ^2.4877952 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-1.652 ^1.7439232 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-1.416 ^1.0891648 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-1.18 ^0.523520000000001 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-0.944000000000001 ^0.0469888000000016 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-0.708000000000001 ^-0.340428799999999 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-0.472000000000001 ^-0.638732799999999 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-0.236000000000001 ^-0.847923199999999 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^0 ^-0.968 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^0.236 ^-0.8479232 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^0.472 ^-0.6387328 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^0.708 ^-0.3404288 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^0.944 ^0.0469887999999998 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^1.18 ^0.523519999999999 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^1.416 ^1.0891648 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^1.652 ^1.7439232 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^1.888 ^2.4877952 ^0 0 0 0 0.07 0
+particle minecraft:large_smoke ^-0.77568 ^1.501937664 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^-0.38784 ^1.568956416 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^0 ^1.824 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^0.38784 ^1.568956416 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^0.77568 ^1.501937664 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^-0.9696 ^1.20134016 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^-0.7272 ^0.55733184 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^-0.4848 ^0.0308390399999998 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^-0.2424 ^-0.37813824 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^0 ^-0.6696 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^0.2424 ^-0.37813824 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^0.4848 ^0.0308390399999998 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^0.7272 ^0.55733184 ^0 0 0 0 0 0
+particle minecraft:large_smoke ^0.9696 ^1.20134016 ^0 0 0 0 0 0
+particle minecraft:large_smoke ~ ~ ~ 1 1 1 0 16
+
+playsound minecraft:entity.generic.extinguish_fire master @a ~ ~ ~ 1 2
+kill @s[type=!player]

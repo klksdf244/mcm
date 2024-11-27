@@ -1,0 +1,6 @@
+summon item -1456 115 1362 {CustomNameVisible:1,CustomName:'{"translate":"luisb1202.functions.bossfight.b2.recompensa.1","color":"#987764"}',PickupDelay:25,Age:32768,NoGravity:1b,Item:{id:"minecraft:coal",Count:1b,tag:{CanPlaceOn:["minecraft:structure_void"],display:{Name:'{"translate":"luisb1202.functions.bossfight.b2.recompensa.1","color":"#987764"}',Lore:['{"translate":"empty"}','{"translate":"luisb1202.functions.bossfight.b2.recompensa.2"}','{"translate":"luisb1202.functions.bossfight.b2.recompensa.3"}','{"translate":"luisb1202.functions.bossfight.b2.recompensa.4"}','{"translate":"empty"}','{"translate":"item.quartz.1.lore.7.1"}','{"translate":"empty"}']},Enchantments:[{}],HideFlags:16,esquirla_thar:1}}}
+schedule function luisb1202:bossfight/b2/run_recompensa 1t
+execute at @e[type=item,nbt={Item:{tag:{esquirla_thar:1}},OnGround:0b}] run particle flash ~ ~ ~ 0 0 0 0 0 force
+execute at @e[type=item,nbt={Item:{tag:{esquirla_thar:1}},OnGround:0b}] run particle explosion ~ ~ ~ 0 0 0 0 0 force
+playsound entity.experience_orb.pickup master @a ~ ~ ~ 1 2
+scoreboard players set monumento_recompensa_thar danom 1

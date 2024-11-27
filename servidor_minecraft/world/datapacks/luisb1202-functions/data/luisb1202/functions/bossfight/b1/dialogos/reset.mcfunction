@@ -1,0 +1,16 @@
+schedule clear luisb1202:bossfight/b1/dialogos/dia1
+schedule clear luisb1202:bossfight/b1/dialogos/dia2
+schedule clear luisb1202:bossfight/b1/dialogos/dia3
+schedule clear luisb1202:bossfight/b1/dialogos/dia4
+schedule clear luisb1202:bossfight/b1/dialogos/dia5
+schedule clear luisb1202:bossfight/b1/dialogos/dia6
+schedule clear luisb1202:bossfight/b1/dialogos/dia7
+schedule clear luisb1202:bossfight/b1/dialogos/dia8
+schedule clear luisb1202:bossfight/b1/dialogos/ini1
+schedule clear luisb1202:bossfight/b1/dialogos/ini2
+schedule clear luisb1202:bossfight/b1/dialogos/ini3
+schedule clear luisb1202:bossfight/b1/dialogos/ini4
+schedule clear luisb1202:bossfight/b1/dialogos/ini5
+schedule clear luisb1202:bossfight/b1/dialogos/ini6
+schedule clear luisb1202:bossfight/b1/dialogos/ini7
+schedule clear luisb1202:bossfight/b1/dialogos/ini8

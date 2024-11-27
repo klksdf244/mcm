@@ -1,0 +1,17 @@
+execute as @s[scores={vision=1}] run function luisb1202:items/tomo/bastion/particulas/1
+execute as @s[scores={vision=2}] run function luisb1202:items/tomo/bastion/particulas/2
+execute as @s[scores={vision=3}] run function luisb1202:items/tomo/bastion/particulas/3
+execute as @s[scores={vision=4}] run function luisb1202:items/tomo/bastion/particulas/4
+execute as @s[scores={vision=5}] run function luisb1202:items/tomo/bastion/particulas/5
+execute as @s[scores={vision=6}] run function luisb1202:items/tomo/bastion/particulas/6
+execute as @s[scores={vision=7}] run function luisb1202:items/tomo/bastion/particulas/7
+execute as @s[scores={vision=8}] run function luisb1202:items/tomo/bastion/particulas/8
+execute as @s[scores={vision=9}] run function luisb1202:items/tomo/bastion/particulas/9
+execute as @s[scores={vision=10}] run function luisb1202:items/tomo/bastion/particulas/10
+execute as @s[scores={vision=11}] run function luisb1202:items/tomo/bastion/particulas/11
+execute as @s[scores={vision=12}] run function luisb1202:items/tomo/bastion/particulas/12
+execute as @s[scores={vision=13}] run function luisb1202:items/tomo/bastion/particulas/13
+execute as @s[scores={vision=14}] run function luisb1202:items/tomo/bastion/particulas/14
+execute as @s[scores={vision=15}] run function luisb1202:items/tomo/bastion/particulas/15
+execute as @s[scores={vision=16}] run function luisb1202:items/tomo/bastion/particulas/16
+scoreboard players set @s bastion_t2 -35

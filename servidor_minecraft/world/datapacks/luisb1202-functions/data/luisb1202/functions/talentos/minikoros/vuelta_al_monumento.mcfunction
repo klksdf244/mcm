@@ -1,0 +1,1 @@
+execute as @s at @s run function luisb1202:carga_lanas/monumento/animacion_entrada/ini

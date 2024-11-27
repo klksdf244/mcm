@@ -1,0 +1,4 @@
+
+summon item ~ ~ ~ {Age:-32768,CustomNameVisible:1,CustomName:'{"translate":"luisb1202.functions.items.megamatriz_perneras.item_forja.5","color":"#75FFCD"}',Motion:[0.0,0.5,0.0],Item:{id:"golden_horse_armor",Count:1b,tag:{RepairCost:999999,Unbreakable:1,display:{Name:'{"translate":"luisb1202.functions.items.megamatriz_perneras.item_forja.5","color":"#75FFCD"}',Lore:['{"translate":"empty"}','{"translate":"luisb1202.functions.items.megamatriz_perneras.item_forja_drop_2.1"}','{"translate":"luisb1202.functions.items.megamatriz_perneras.item_forja_drop_2.2"}','{"translate":"empty"}','{"translate":"item.netherite_chestplate.2.lore.4.1"}','{"translate":"empty"}']},HideFlags:127,Enchantments:[{}],forja:1,terracechador_2:1}}} 
+playsound entity.experience_orb.pickup master @a ~ ~ ~ 1 2
+particle explosion

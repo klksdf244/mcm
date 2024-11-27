@@ -1,0 +1,3 @@
+summon armor_stand ~ ~ ~ {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["invasion_nexo","invasion_nave"],DisabledSlots:4144959}
+setblock ~ ~ ~ minecraft:structure_block{metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0l,author:"luisb1202",rotation:"NONE",posX:0,mode:"LOAD",posY:0,sizeX:17,posZ:0,integrity:1.0f,showair:0b,name:"luisb1202:invasion_nave",sizeY:26,sizeZ:21}
+setblock ~ ~1 ~ redstone_block

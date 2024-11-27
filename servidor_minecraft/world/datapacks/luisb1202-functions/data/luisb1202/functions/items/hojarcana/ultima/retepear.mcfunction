@@ -1,0 +1,1 @@
+execute at @e[tag=hojarcana_ultima_core] at @e[tag=hojarcana_hit1,sort=nearest,limit=1] rotated as @e[tag=hojarcana_ultima_core] run tp @e[tag=hojarcana_ultima_core] ^1 ^1 ^

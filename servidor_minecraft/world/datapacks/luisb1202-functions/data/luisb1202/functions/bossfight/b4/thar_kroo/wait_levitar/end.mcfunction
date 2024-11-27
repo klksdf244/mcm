@@ -1,0 +1,1 @@
+schedule clear luisb1202:bossfight/b4/thar_kroo/wait_levitar/run

@@ -1,0 +1,3 @@
+execute positioned 1810 57 -141.0 unless entity @e[tag=4_totem_core,distance=..5] run function luisb1202:carga_lanas/4_morado/totem_de_lore/gen
+execute positioned 1862 43 -24 unless entity @e[tag=4_totem_core,distance=..5] run function luisb1202:carga_lanas/4_morado/totem_de_lore/gen
+execute positioned 1975 37 -105 unless entity @e[tag=4_totem_core,distance=..5] run function luisb1202:carga_lanas/4_morado/totem_de_lore/gen

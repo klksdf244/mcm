@@ -1,0 +1,2 @@
+scoreboard players remove @e[tag=hostile,scores={martillo_hurt_cd=1..}] martillo_hurt_cd 1
+execute if entity @e[tag=hostile,scores={martillo_hurt_cd=1..}] run schedule function luisb1202:items/martillos/hit_cd 1t

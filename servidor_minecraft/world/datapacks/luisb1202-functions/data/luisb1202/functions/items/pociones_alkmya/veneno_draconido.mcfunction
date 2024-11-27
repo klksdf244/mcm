@@ -1,0 +1,2 @@
+summon item ~ ~ ~ {Item:{Count:16b,id:"splash_potion",tag:{CustomPotionColor:11265600,CustomPotionEffects:[{Id:18b,Amplifier:1b,Duration:300},{Id:19b,Amplifier:1b,Duration:300},{Id:20b,Amplifier:1b,Duration:300},{Id:2b,Amplifier:1b,Duration:300}],display:{Name:'{"translate":"item.splash_potion.16.name.1","color":"#75FFCD"}',Lore:['{"translate":"empty"}','{"translate":"item.splash_potion.16.lore.1.1"}','{"translate":"empty"}','{"translate":"item.heart_of_the_sea.1.lore.7.1"}','{"translate":"empty"}']}}}}
+

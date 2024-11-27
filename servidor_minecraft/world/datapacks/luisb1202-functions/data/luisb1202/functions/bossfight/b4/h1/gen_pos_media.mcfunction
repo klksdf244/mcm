@@ -1,0 +1,34 @@
+kill @e[tag=b4_h1_as]
+summon armor_stand ~6.86549696282261 ~ ~1.3656322541129 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~6.46715672757901 ~ ~2.67878402655563 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~5.82028728611782 ~ ~3.88899163113722 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~4.94974746830583 ~ ~4.94974746830583 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~3.88899163113722 ~ ~5.82028728611782 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~2.67878402655563 ~ ~6.46715672757901 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~1.3656322541129 ~ ~6.86549696282261 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~0 ~ ~7 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-1.3656322541129 ~ ~6.86549696282261 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-2.67878402655563 ~ ~6.46715672757901 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-3.88899163113722 ~ ~5.82028728611782 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-4.94974746830583 ~ ~4.94974746830583 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-5.82028728611782 ~ ~3.88899163113722 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-6.46715672757901 ~ ~2.67878402655563 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-6.86549696282261 ~ ~1.3656322541129 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-7 ~ ~0 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-6.86549696282261 ~ ~-1.3656322541129 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-6.46715672757901 ~ ~-2.67878402655563 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-5.82028728611782 ~ ~-3.88899163113722 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-4.94974746830583 ~ ~-4.94974746830583 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-3.88899163113722 ~ ~-5.82028728611782 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-2.67878402655563 ~ ~-6.46715672757901 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~-1.3656322541129 ~ ~-6.86549696282261 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~0 ~ ~-7 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~1.3656322541129 ~ ~-6.86549696282261 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~2.67878402655563 ~ ~-6.46715672757901 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~3.88899163113721 ~ ~-5.82028728611782 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~4.94974746830583 ~ ~-4.94974746830583 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~5.82028728611782 ~ ~-3.88899163113722 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~6.46715672757901 ~ ~-2.67878402655563 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~6.86549696282261 ~ ~-1.3656322541129 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+summon armor_stand ~7 ~ ~0 {NoGravity:1b,Silent:1b,Invulnerable:1b,Small:1b,Marker:1b,Invisible:1b,Tags:["b4_h1_as","b4_h1_as_ini"]}
+

@@ -1,0 +1,30 @@
+particle end_rod ^ ^ ^0 0 0 0 0 0 force
+particle end_rod ^ ^ ^0.75 0 0 0 0 0 force
+particle end_rod ^ ^ ^1.5 0 0 0 0 0 force
+particle end_rod ^ ^ ^2.25 0 0 0 0 0 force
+particle end_rod ^ ^ ^3 0 0 0 0 0 force
+particle end_rod ^ ^ ^3.75 0 0 0 0 0 force
+particle end_rod ^ ^ ^4.5 0 0 0 0 0 force
+particle end_rod ^ ^ ^5.25 0 0 0 0 0 force
+particle end_rod ^ ^ ^6 0 0 0 0 0 force
+particle end_rod ^ ^ ^6.75 0 0 0 0 0 force
+particle end_rod ^ ^ ^7.5 0 0 0 0 0 force
+particle end_rod ^ ^ ^8.25 0 0 0 0 0 force
+particle end_rod ^ ^ ^9 0 0 0 0 0 force
+particle end_rod ^ ^ ^9.75 0 0 0 0 0 force
+particle end_rod ^ ^ ^10.5 0 0 0 0 0 force
+particle end_rod ^ ^ ^11.25 0 0 0 0 0 force
+particle end_rod ^ ^ ^12 0 0 0 0 0 force
+particle end_rod ^ ^ ^12.75 0 0 0 0 0 force
+particle end_rod ^ ^ ^13.5 0 0 0 0 0 force
+particle end_rod ^ ^ ^14.25 0 0 0 0 0 force
+particle end_rod ^ ^ ^15 0 0 0 0 0 force
+particle end_rod ^ ^ ^15.75 0 0 0 0 0 force
+particle end_rod ^ ^ ^16.5 0 0 0 0 0 force
+particle end_rod ^ ^ ^17.25 0 0 0 0 0 force
+particle end_rod ^ ^ ^18 0 0 0 0 0 force
+particle end_rod ^ ^ ^18.75 0 0 0 0 0 force
+particle end_rod ^ ^ ^19.5 0 0 0 0 0 force
+particle end_rod ^ ^ ^20.25 0 0 0 0 0 force
+
+playsound block.note_block.pling master @a ~ ~ ~ 1 2 

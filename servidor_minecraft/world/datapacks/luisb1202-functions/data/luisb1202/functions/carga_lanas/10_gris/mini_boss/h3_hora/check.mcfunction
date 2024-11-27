@@ -1,0 +1,1 @@
+execute if score @e[tag=10_aguja_lucida_reloj_core,limit=1] danom = 10_miniboss_h3_n danom at @e[tag=10_miniboss_core] positioned ~ ~1 ~ run function luisb1202:carga_lanas/10_gris/mini_boss/h3_hora/break

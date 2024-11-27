@@ -1,0 +1,1 @@
+execute as @e[tag=9_mimic_core] run function luisb1202:carga_lanas/9_gris_claro/mimic/cerrar_boca

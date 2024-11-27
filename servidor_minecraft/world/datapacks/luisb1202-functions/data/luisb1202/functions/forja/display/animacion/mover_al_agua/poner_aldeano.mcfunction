@@ -1,0 +1,1 @@
+execute as @e[tag=atacrom_hitbox] at @s run tp @s ~ ~10 ~

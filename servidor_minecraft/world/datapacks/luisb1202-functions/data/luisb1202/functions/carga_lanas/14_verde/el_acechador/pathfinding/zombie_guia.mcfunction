@@ -1,0 +1,5 @@
+summon zombie ~ 999 ~ {ArmorItems:[{},{},{},{}],Invulnerable:1b,NoAI:0,Silent:1b,ActiveEffects:[{Id:11,Duration:999999,ShowParticles:false},{Id:12,Duration:999999,ShowParticles:false},{Id:14,Duration:999999,ShowParticles:false}],Rotation:[90F,0F],PersistenceRequired:true,Tags:["14_acechador_as","14_acechador_guia_ini","14_acechador_guia","spawn_afijo_setup","inmune_polimorfia"],ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],HandDropChances:[0.0f,0.0f],DeathLootTable:"empty",Health:99999f,Attributes:[{Name:"generic.follow_range",Base:100},{Name:"generic.max_health",Base:99999},{Name:"generic.movement_speed",Base:0.2},{Name:"generic.knockback_resistance",Base:0.35}]}
+execute as @e[tag=14_acechador_guia_ini] run tp @s ~ ~ ~
+#instanciación
+scoreboard players set @e[tag=14_acechador_guia_ini] 14_id 0
+tag @e[tag=14_acechador_guia_ini] remove 14_acechador_guia_ini

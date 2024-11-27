@@ -1,0 +1,1 @@
+execute as @e[tag=tumba_core,sort=nearest,limit=1] run function luisb1202:misterio/vacio/tumba/ini_vaciar

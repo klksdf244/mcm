@@ -1,0 +1,60 @@
+particle minecraft:dust 1 1 1 2.5 ~7.93155889099048 ~0 ~1.04420953776041 0 0 0 0 1
+particle minecraft:dust 1 1 1 2.5 ~7.72740661031255 ~0 ~2.07055236082017 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~7.39103626009029 ~0 ~3.06146745892072 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~6.92820323027551 ~0 ~4 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~6.34682672232988 ~0 ~4.87009143206977 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~5.65685424949238 ~0 ~5.65685424949238 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~4.87009143206977 ~0 ~6.34682672232988 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~4 ~0 ~6.92820323027551 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~3.06146745892072 ~0 ~7.39103626009029 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~2.07055236082017 ~0 ~7.72740661031255 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~1.04420953776041 ~0 ~7.93155889099048 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~0 ~0 ~8 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-1.04420953776041 ~0 ~7.93155889099048 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-2.07055236082017 ~0 ~7.72740661031255 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-3.06146745892072 ~0 ~7.39103626009029 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-4. ~0 ~6.92820323027551 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-4.87009143206977 ~0 ~6.34682672232988 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-5.65685424949238 ~0 ~5.65685424949238 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-6.34682672232988 ~0 ~4.87009143206977 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-6.92820323027551 ~0 ~4 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-7.39103626009029 ~0 ~3.06146745892072 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-7.72740661031255 ~0 ~2.07055236082017 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-7.93155889099048 ~0 ~1.04420953776041 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-8 ~0 ~0 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-7.93155889099048 ~0 ~-1.04420953776041 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-7.72740661031255 ~0 ~-2.07055236082017 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-7.3910362600903 ~0 ~-3.06146745892072 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-6.92820323027551 ~0 ~-4 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-6.34682672232988 ~0 ~-4.87009143206977 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-5.65685424949238 ~0 ~-5.65685424949238 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-4.87009143206977 ~0 ~-6.34682672232988 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-4. ~0 ~-6.92820323027551 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-3.06146745892072 ~0 ~-7.3910362600903 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-2.07055236082017 ~0 ~-7.72740661031255 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~-1.04420953776041 ~0 ~-7.93155889099048 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~0 ~0 ~-8 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~1.04420953776041 ~0 ~-7.93155889099048 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~2.07055236082016 ~0 ~-7.72740661031255 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~3.06146745892072 ~0 ~-7.39103626009029 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~4 ~0 ~-6.92820323027551 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~4.87009143206976 ~0 ~-6.34682672232988 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~5.65685424949238 ~0 ~-5.65685424949238 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~6.34682672232988 ~0 ~-4.87009143206977 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~6.92820323027551 ~0 ~-4. 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~7.3910362600903 ~0 ~-3.06146745892072 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~7.72740661031255 ~0 ~-2.07055236082017 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~7.93155889099048 ~0 ~-1.04420953776041 0 0 0 1 1
+particle minecraft:dust 1 1 1 2.5 ~8 ~0 ~0 0 0 0 1 1
+
+
+
+
+
+
+
+
+
+
+
+

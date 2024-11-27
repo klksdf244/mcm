@@ -1,0 +1,18 @@
+{
+    "display":{
+        "icon": {
+            "item":"minecraft:map"
+        },
+        "title": {
+            "translate":"minecraft.advancements.adventure.root.1"
+        },
+        "background": "minecraft:textures/enviroment/end_sky.png",
+        "description": {"translate":"minecraft.advancements.adventure.root.1"}
+    },
+    "parent": "adventure/root",
+    "criteria": {
+        "vanilla_override": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

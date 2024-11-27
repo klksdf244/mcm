@@ -1,0 +1,1 @@
+give @p feather{Enchantments:[{}],RepairCost:999999,Unbreakable:1,display:{Name:'{"translate":"item.feather.2.name.1"}',Lore:['{"translate":"empty"}','{"translate":"item.feather.2.lore.1.1"}']},AttributeModifiers:[{AttributeName:"generic.movement_speed",Name:"generic.movement_speed",Amount:0.18,Operation:1,UUID:[I;829225476,-1077391604,-1668902538,-1307042820],Slot:"offhand"}]} 1

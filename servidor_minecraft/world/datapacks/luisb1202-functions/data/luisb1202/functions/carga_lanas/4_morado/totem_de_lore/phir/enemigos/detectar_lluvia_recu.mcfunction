@@ -1,0 +1,3 @@
+execute positioned ~ ~-1 ~ if block ~ ~ ~ air unless entity @p[distance=..1,tag=4_phir] run function luisb1202:carga_lanas/4_morado/totem_de_lore/phir/enemigos/detectar_lluvia_recu
+execute positioned ~ ~-1 ~ as @p[distance=..1,tag=4_phir] at @s run function luisb1202:carga_lanas/11_cian/totem_de_lore/dialogos/index/lluvia
+execute positioned ~ ~-1 ~ unless block ~ ~ ~ air unless entity @p[distance=..1,tag=4_phir] run scoreboard players set 11_lluvia danom 0

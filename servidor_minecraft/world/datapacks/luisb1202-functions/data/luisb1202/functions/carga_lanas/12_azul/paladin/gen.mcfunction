@@ -1,0 +1,1 @@
+execute align xyz positioned ~0.5 ~1 ~0.5 run function luisb1202:carga_lanas/12_azul/paladin/gen_2

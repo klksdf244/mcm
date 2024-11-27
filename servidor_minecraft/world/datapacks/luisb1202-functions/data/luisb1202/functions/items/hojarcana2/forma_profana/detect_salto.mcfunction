@@ -1,0 +1,2 @@
+execute if score hojarcana2_chain danom matches 2 run function luisb1202:items/hojarcana2/forma_profana/pasar_fase
+execute if score hojarcana2_chain danom matches 4 run function luisb1202:items/hojarcana2/forma_profana/pasar_fase

@@ -1,0 +1,3 @@
+
+execute if score @s invasion_aro matches ..7 run title @s actionbar ["",{"translate":"luisb1202.functions.carga_lanas.nexo.invasion.aros.display_puntos.1"},{"score":{"name":"@s","objective":"invasion_aro"},"bold":true,"color":"#FBBDFF"},{"translate":"luisb1202.functions.carga_lanas.nexo.invasion.aros.display_puntos.2","bold":true,"color":"#FBBDFF"}]
+execute if score @s invasion_aro matches 8.. run title @s actionbar [{"translate":"luisb1202.functions.carga_lanas.nexo.invasion.aros.display_puntos.3","bold":true,"color":"white"}]

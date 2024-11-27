@@ -1,0 +1,3 @@
+scoreboard players add 11_mosquito_recu_check danom 1
+execute if entity @p[distance=..1,scores={11_mosquito_wait=..0}] run function luisb1202:carga_lanas/11_cian/mosquito/atacar/ini
+execute unless score 11_mosquito_recu_check danom matches 12.. unless entity @p[distance=..1,scores={11_mosquito_wait=..0}] if block ~ ~ ~ #luisb1202:noground positioned ^ ^ ^1 run function luisb1202:carga_lanas/11_cian/mosquito/atacar/recu_check

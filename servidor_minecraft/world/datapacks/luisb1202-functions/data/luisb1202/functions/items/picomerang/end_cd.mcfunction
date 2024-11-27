@@ -1,0 +1,5 @@
+execute as @p[nbt={Inventory:[{tag:{picomerang:1}}]}] at @s run title @s actionbar ["",{"translate":"block.sign.55.text2.1","color":"#69C6F0"},{"translate":"luisb1202.functions.items.picomerang.end_cd.1","bold":false,"color":"#B2D7E8"},{"translate":"luisb1202.functions.items.arco_bomba.end_cd.1","color":"#69C6F0"},{"translate":"luisb1202.functions.items.picomerang.end_cd.2","color":"#69C6F0"}]
+execute as @p[nbt={Inventory:[{tag:{picomerang:1}}]}] at @s run playsound minecraft:ui.button.click master @s ~ ~ ~ 0.5 1.5
+execute as @p[nbt={Inventory:[{tag:{picomerang:1}}]}] at @s run particle minecraft:crit ~ ~1 ~ 0.3 0 0 0.4 30
+execute as @p[nbt={Inventory:[{tag:{picomerang:1}}]}] at @s run particle minecraft:dust 0.639 0.804 0.902 1.5 ~ ~1 ~ 0.3 0.4 0.3 0.02 10
+scoreboard players set picomerang danom 0

@@ -1,0 +1,16 @@
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0.785297602634594 ^-0.325280917510326 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0.601040764008565 ^-0.601040764008565 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0.325280917510326 ^-0.785297602634594 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0 ^-0.85 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^-0.325280917510326 ^-0.785297602634594 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^-0.601040764008565 ^-0.601040764008565 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^-0.785297602634594 ^-0.325280917510326 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^-0.85 ^0 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^-0.785297602634594 ^0.325280917510326 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^-0.601040764008566 ^0.601040764008565 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^-0.325280917510326 ^0.785297602634594 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0 ^0.85 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0.325280917510327 ^0.785297602634594 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0.601040764008565 ^0.601040764008566 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0.785297602634594 ^0.325280917510326 ^ 0 -1 0 100000 0 force @s
+execute positioned ~ ~1 ~ rotated as @s run particle minecraft:end_rod ^0.85 ^0 ^ 0 -1 0 100000 0 force @s

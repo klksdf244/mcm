@@ -1,0 +1,5 @@
+execute as @e[tag=forja_martillo_1] if score @s forja_fase = forja_animacion danom run data modify entity @s ArmorItems[3] set value {id:"tripwire_hook",Count:1b}
+execute as @e[tag=forja_martillo_2] if score @s forja_fase = forja_animacion danom run data modify entity @s ArmorItems[3] set value {id:"tripwire_hook",Count:1b}
+execute as @e[tag=forja_martillo_3] if score @s forja_fase = forja_animacion danom run data modify entity @s ArmorItems[3] set value {id:"smooth_stone",Count:1b}
+execute as @e[tag=forja_martillo_4] if score @s forja_fase = forja_animacion danom run data modify entity @s ArmorItems[3] set value {id:"smooth_stone",Count:1b}
+execute as @e[tag=forja_martillo_5] if score @s forja_fase = forja_animacion danom run data modify entity @s ArmorItems[3] set value {id:"lever",Count:1b}

@@ -1,0 +1,7 @@
+summon zombie 1533 107 1383 {Team:aqua,Rotation:[90F,0F],PersistenceRequired:true,ActiveEffects:[{Duration:999999,Id:11b,Amplifier:0b,ShowParticles:false}],Tags:["boss","electro_boss","hostile","ectron_idle","spawn_afijo_setup"],CustomName:'{"translate":"luisb1202.functions.bossfight.b3.gen_boss.1"}',CustomNameVisible:1b,ArmorDropChances:[0.0f,0.0f,0.0f,0.0f],HandDropChances:[0.0f,0.0f],Health:950f,HandItems:[{Count:1b,id:"golden_sword",tag:{RepairCost:999999,Unbreakable:1}},{}],Attributes:[{Name:"generic.max_health",Base:950},{Name:"generic.movement_speed",Base:0.27}],ArmorItems:[{Count:1b,id:"iron_boots"},{Count:1b,id:"leather_leggings",tag:{display:{color:16514833}}},{Count:1b,id:"iron_chestplate"},{Count:1b,id:"player_head",tag:{SkullOwner:{Id:[I;-1799677634,1587104164,-1678250160,-84111072],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjU2MWM4MWUwOGIyMTdlYTU2YTBiNWRhZWQ4OWE1NzE0OWJhNjBiOTliZGMxZmJjNGM0OTYzYzI2MGM5ZWQ2NyJ9fX0="}]}}}}]}
+execute as @e[tag=boss] at @s run tp @s ~ ~2 ~ 0 0
+function luisb1202:bossfight/b3/dialogos/inicio/ini_emerger
+execute as @e[tag=ectron_idle] at @s run particle large_smoke ~ ~1 ~ 0 0 0 0.2 30
+
+
+#/give @p minecraft:player_head{display:{Name:"{\"text\":\"ectron\"}"},SkullOwner:{Id:[I;1883308891,-1848883088,-1551411942,1691079525],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjU2MWM4MWUwOGIyMTdlYTU2YTBiNWRhZWQ4OWE1NzE0OWJhNjBiOTliZGMxZmJjNGM0OTYzYzI2MGM5ZWQ2NyJ9fX0="}]}}} 1
